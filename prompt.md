@@ -19,9 +19,12 @@
 
 ## Structure
 
-Clarity & Specificity
-Context
-Role Playing
-Output Format
+    Clarity & Specificity
+
+    Context
+
+    Role Playing
+
+    Output Format
 
 
