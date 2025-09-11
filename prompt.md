@@ -7,7 +7,7 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-# Resource
+## Resource
     
     Video : @puryadianati : https://www.youtube.com/watch?v=tdwtaHXsJ2A&list=PLP46xSdTEp2wJGyML4HBNIoNWDMgEwmkV
 
@@ -16,5 +16,12 @@
 
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
+
+## Structure
+
+Clarity & Specificity
+Context
+Role Playing
+Output Format
 
 
