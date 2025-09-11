@@ -7,14 +7,10 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-# Resource  
+# Resource
+    
+    Video : @puryadianati : https://www.youtube.com/watch?v=tdwtaHXsJ2A&list=PLP46xSdTEp2wJGyML4HBNIoNWDMgEwmkV
 
-<!--------------------------------------------------- General -->
-### General
-<!--------------------------------------------------- Learn -->
-### Learn
-<!--------------------------------------------------- Tools -->
-### Tools
 
 
 
