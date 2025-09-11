@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
-# ai_document
-    this is documents of ai_document
+# ai_document : prompt
+    this is documents of ai_document : prompt
 
 
 
@@ -21,5 +21,4 @@
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-# Structure
-    Prombp
+
