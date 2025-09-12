@@ -6,14 +6,12 @@
 <br><br>
 
 ## Resource  
-
     google colab     : https://colab.research.google.com/
 
 <!--------------------------------------------------------------------------------- Neural network -->
 <br><br>
 
 ## Structure
-
     X(Input) * W(Weight) + Bias > (Sum) > (Activation) > Y 
     BackPropagation
     Layer size
@@ -24,7 +22,6 @@
 <br><br>
 
 ## Python
-    
     numpy
     matplotlib
     jupyter

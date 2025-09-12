@@ -7,7 +7,6 @@
 <br><br>
 
 ## Resource  
-
     google ai studio : https://aistudio.google.com/prompts/new_chat
 
 <!--------------------------------------------------------------------------------- Algorithm -->

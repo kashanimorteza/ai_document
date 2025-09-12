@@ -1,5 +1,5 @@
 <!--------------------------------------------------------------------------------- Description -->
-# ai_document : prompt
+# ai_document : Prompt
     this is documents of ai_document : prompt
 
 <!--------------------------------------------------------------------------------- Resource -->
@@ -13,15 +13,10 @@
 <br><br>
 
 ## Structure
-
     Clarity & Specificity
-
     Context
-
     Role Playing
-
     Output Format
-
     ChatML : system | User | Assistant
 
 
