@@ -10,13 +10,12 @@
 ## Resource
 Website
 
-    https://modelcontextprotocol.io/
-    https://www.anthropic.com/
-    https://smithery.ai/
+https://modelcontextprotocol.io/
+https://www.anthropic.com/
+https://smithery.ai/
 
 Video
-
-   Video : @puryadianati  : https://www.youtube.com/watch?v=XDVVbKE08X8
+    Video : @puryadianati  : https://www.youtube.com/watch?v=XDVVbKE08X8
 
 
 
