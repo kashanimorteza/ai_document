@@ -18,5 +18,3 @@
     Role Playing
     Output Format
     ChatML : system | User | Assistant
-
-

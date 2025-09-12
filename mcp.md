@@ -21,10 +21,6 @@ Video
 Video : @puryadianati  : https://www.youtube.com/watch?v=XDVVbKE08X8
 ```
 
-<!--------------------------------------------------------------------------------- Road map -->
-<br><br>
-
-## Road map
 
 
 
