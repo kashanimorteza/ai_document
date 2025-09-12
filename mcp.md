@@ -8,6 +8,15 @@
 <br><br>
 
 ## Resource
+Website
+
+    https://modelcontextprotocol.io/
+    https://www.anthropic.com/
+    https://smithery.ai/
+
+Video
+
+   Video : @puryadianati  : https://www.youtube.com/watch?v=XDVVbKE08X8
 
 
 
@@ -15,3 +24,15 @@
 <br><br>
 
 ## Structure
+    Client
+    Server
+    Data source
+
+
+
+<!--------------------------------------------------------------------------------- Figma -->
+<br><br>
+
+## Figma
+    https://github.com/grab/cursor-talk-to-figma-mcp
+    https://github.com/puryadianati/convert-figma-code-cursor
