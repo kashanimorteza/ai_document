@@ -50,6 +50,16 @@ Acting Rationally   : it's ok
 <!-------------------------- Intelligent agents -->
 ### Intelligent agents
 ```
+Percept > Agent > Action
+Action = Agent([Percepts])
+State-Space
+1. har mohit daraye tedadi az halat ha ast
+2. dar har lahze amel dakhele ye ki az on mohit ha ast
+3. amale amel baes mishe az yek state be ye state dige mire
+Performance Measure : no-Behavior just Goal 
+Prior knowledge
+Rationality : Prior knowledge + Percepts + Actions + Performance Measure
+Omniscience | Perfection
 ```
 
 
