@@ -24,7 +24,14 @@ Video : @puryadianati  : https://www.youtube.com/watch?v=YfQabNnFn6Y
     Autoregressive language model
 
 
-<!--------------------------------------------------------------------------------- Structure -->
+<!--------------------------------------------------------------------------------- Masked language model -->
 <br><br>
 
-## Structure
+## Masked language model
+
+
+
+<!--------------------------------------------------------------------------------- Autoregressive language model -->
+<br><br>
+
+## Autoregressive language model

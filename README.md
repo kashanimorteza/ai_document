@@ -23,6 +23,15 @@ Video
 @puryadianati : https://www.youtube.com/watch?v=Fw9DuncIeJQ
 ```
 
+<!--------------------------------------------------------------------------------- Structure -->
+<br><br>
+
+## Structure
+    Data   : 
+    Model  : Algorithm | Train
+    Output : 
+
+
 <!--------------------------------------------------------------------------------- Fields -->
 <br><br>
 
@@ -30,11 +39,14 @@ Video
 ```
 Machine Learning
 NLP
+Speech Recognizition
 Computer Vision
 Deep Learning
 Expert Systems
 Fuzzy Logic
  ```
+
+
 
  <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
@@ -82,6 +94,8 @@ Prompt
 LLM
 NLP
 ```
+
+
 
 
 
