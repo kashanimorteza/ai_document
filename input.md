@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
-# ai_document : Model
-    this is documents of ai_document : Data
+# ai_document : Input
+    this is documents of ai_document : Input
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
@@ -13,11 +13,18 @@ Website
 <!-------------------------- Video -->
 Video
 ```
+
 ```
 
-<!--------------------------------------------------------------------------------- Algorithm -->
+<!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-## Pre processing 
+## Structure
 ```
+Type
+Lable
+Cleaning
+Normalization
+Tokenize
+Limitation
 ```

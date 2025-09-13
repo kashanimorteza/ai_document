@@ -16,13 +16,15 @@ Video
 Video : @puryadianati  : https://www.youtube.com/watch?v=YfQabNnFn6Y
 ```
 
-<!--------------------------------------------------------------------------------- Type -->
+<!--------------------------------------------------------------------------------- Subject -->
 <br><br>
 
-## Type
-    Masked language model
-    Autoregressive language model
-
+## Subject
+```
+Masked language model
+Autoregressive language model
+Prompt
+```
 
 <!--------------------------------------------------------------------------------- Masked language model -->
 <br><br>
@@ -35,3 +37,20 @@ Video : @puryadianati  : https://www.youtube.com/watch?v=YfQabNnFn6Y
 <br><br>
 
 ## Autoregressive language model
+
+
+<!--------------------------------------------------------------------------------- Prompt -->
+<br><br>
+
+## Prompt
+```
+Book  : Prompt Engineering for LLMs
+Video : @puryadianati : https://www.youtube.com/watch?v=tdwtaHXsJ2A&list=PLP46xSdTEp2wJGyML4HBNIoNWDMgEwmkV
+```
+```
+Clarity & Specificity
+Context
+Role Playing
+Output Format
+ChatML : system | User | Assistant
+```

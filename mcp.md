@@ -2,8 +2,6 @@
 # ai_document : MCP
     this is documents of ai_document : prompt
 
-
-
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
@@ -21,9 +19,6 @@ Video
 Video : @puryadianati  : https://www.youtube.com/watch?v=XDVVbKE08X8
 ```
 
-
-
-
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
@@ -31,8 +26,6 @@ Video : @puryadianati  : https://www.youtube.com/watch?v=XDVVbKE08X8
     Client
     Server
     Data source
-
-
 
 <!--------------------------------------------------------------------------------- Figma -->
 <br><br>
