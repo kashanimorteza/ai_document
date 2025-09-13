@@ -36,7 +36,7 @@ Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artif
 
 ## Concept
 <!-------------------------- AI -->
-### AI
+AI
 ```
 Base      : Thought and Reasoning | Action and Behavior
 Attention : Human | Rationality
@@ -48,7 +48,7 @@ Thinking Rationally : ----
 Acting Rationally   : it's ok
 ```
 <!-------------------------- Intelligent agents -->
-### Intelligent agents
+Intelligent agents
 ```
 Percept > Agent > Action
 Action = Agent([Percepts])
@@ -58,8 +58,10 @@ State-Space
 3. amale amel baes mishe az yek state be ye state dige mire
 Performance Measure : no-Behavior just Goal 
 Prior knowledge
-Rationality : Prior knowledge + Percepts + Actions + Performance Measure
 Omniscience | Perfection
+Rationality : Prior knowledge + Percepts + Actions + Performance Measure
+PEAS : Performance measure | Environment | Actuators | Sensors
+Environment : Fully or Partially observable | Deterministic | Episodic | Sequential | Static | Discrete or Continuous | Single or Multi agant 
 ```
 
 
