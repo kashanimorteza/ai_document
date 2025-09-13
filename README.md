@@ -27,33 +27,8 @@ Video
 <br><br>
 
 ## Structure
-    Data   : 
-    Model  : Algorithm | Train
-    Output : 
-
-
-<!--------------------------------------------------------------------------------- Fields -->
-<br><br>
-
-## Fields
 ```
-Machine Learning
-NLP
-Speech Recognizition
-Computer Vision
-Deep Learning
-Expert Systems
-Fuzzy Logic
- ```
-
-
-
- <!--------------------------------------------------------------------------------- Structure -->
-<br><br>
-
-## Structure
-```
-Input
+Input 
 Model
 Output
 ```
@@ -64,36 +39,8 @@ Output
 ## Road map
 
 
-<!--------------------------------------------------------------------------------- Algorithm -->
-<br><br>
 
-## Algorithm
-```
-seq2seq
-Transformer
-Train
-Foundation model
-Fine-Tuning
-Token
-Temperature
-Matching
-Masking
-RLHF
-Reward model
-Medium | Abstraction | Context | Statefulness
-Token
-```
 
-<!--------------------------------------------------------------------------------- Subject -->
-<br><br>
-
-## Subject
-```
-Neural network
-Prompt
-LLM
-NLP
-```
 
 
 

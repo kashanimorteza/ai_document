@@ -15,6 +15,13 @@ Video
 ```
 ```
 
+<!--------------------------------------------------------------------------------- Structure -->
+<br><br>
+
+## Structure
+    Algorithm
+    Train
+
 <!--------------------------------------------------------------------------------- Algorithm -->
 <br><br>
 
@@ -22,7 +29,6 @@ Video
 ```
 Neural network
 ```
-
 
 <!--------------------------------------------------------------------------------- Type -->
 <br><br>
@@ -66,3 +72,51 @@ Evolutionary methods
 site
 ---------------------------
 ax begir boto tosh. : https://demo.dynamicslab.ai/chaos
+
+
+
+<!--------------------------------------------------------------------------------- Fields -->
+<br><br>
+
+## Fields
+```
+Machine Learning
+NLP
+Speech Recognizition
+Computer Vision
+Deep Learning
+Expert Systems
+Fuzzy Logic
+ ```
+
+
+
+ ## Algorithm
+```
+seq2seq
+Transformer
+Train
+Foundation model
+Fine-Tuning
+Token
+Temperature
+Matching
+Masking
+RLHF
+Reward model
+Medium | Abstraction | Context | Statefulness
+Token
+```
+
+
+
+<!--------------------------------------------------------------------------------- Subject -->
+<br><br>
+
+## Subject
+```
+Neural network
+Prompt
+LLM
+NLP
+```
