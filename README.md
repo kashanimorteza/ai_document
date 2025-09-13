@@ -9,6 +9,7 @@
 <!-------------------------- Book -->
 Book
 ```
+Artificial Intelligence: A Modern Approach
 AI Engineering: Building Applications with Foundation Models
 ```
 <!-------------------------- Website -->
@@ -21,13 +22,36 @@ Teachable Machine : https://teachablemachine.withgoogle.com/
 <!-------------------------- Models -->
 Models
 ```
-ax begir boto tosh. : https://demo.dynamicslab.ai/chaos
+ax begir boto tosh. : 
 ```
 <!-------------------------- Video -->
 Video
 ```
 @puryadianati : https://www.youtube.com/watch?v=Fw9DuncIeJQ
+Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
 ```
+
+<!--------------------------------------------------------------------------------- Concept -->
+<br><br>
+
+## Concept
+<!-------------------------- AI -->
+### AI
+```
+Base      : Thought and Reasoning | Action and Behavior
+Attention : Human | Rationality
+```
+```
+Thinking Humanly    : Cognitive science
+Acting Humanly      : Turing theory
+Thinking Rationally : ----
+Acting Rationally   : it's ok
+```
+<!-------------------------- Intelligent agents -->
+### Intelligent agents
+```
+```
+
 
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
