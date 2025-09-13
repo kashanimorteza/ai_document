@@ -62,6 +62,10 @@ Omniscience | Perfection
 Rationality : Prior knowledge + Percepts + Actions + Performance Measure
 PEAS : Performance measure | Environment | Actuators | Sensors
 Environment : Fully or Partially observable | Deterministic | Episodic | Sequential | Static | Discrete or Continuous | Single or Multi agant 
+Agent : Input > Function > Output
+function TABLE-DRIVEN-AGENT(percept) returns an action
+Agent : Simple reflex | Model-based | Goal-based | Utility-based
+
 ```
 
 
