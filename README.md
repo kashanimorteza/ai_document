@@ -35,38 +35,7 @@ Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artif
 <br><br>
 
 ## Concept
-<!-------------------------- AI -->
-AI
-```
-Base      : Thought and Reasoning | Action and Behavior
-Attention : Human | Rationality
-```
-```
-Thinking Humanly    : Cognitive science
-Acting Humanly      : Turing theory
-Thinking Rationally : ----
-Acting Rationally   : it's ok
-```
-<!-------------------------- Intelligent agents -->
-Intelligent agents
-```
-Percept > Agent > Action
-Action = Agent([Percepts])
-State-Space
-1. har mohit daraye tedadi az halat ha ast
-2. dar har lahze amel dakhele ye ki az on mohit ha ast
-3. amale amel baes mishe az yek state be ye state dige mire
-Performance Measure : no-Behavior just Goal 
-Prior knowledge
-Omniscience | Perfection
-Rationality : Prior knowledge + Percepts + Actions + Performance Measure
-PEAS : Performance measure | Environment | Actuators | Sensors
-Environment : Fully or Partially observable | Deterministic | Episodic | Sequential | Static | Discrete or Continuous | Single or Multi agant 
-Agent : Input > Function > Output
-function TABLE-DRIVEN-AGENT(percept) returns an action
-Agent : Simple reflex | Model-based | Goal-based | Utility-based
 
-```
 
 
 <!--------------------------------------------------------------------------------- Structure -->
