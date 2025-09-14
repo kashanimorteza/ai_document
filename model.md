@@ -15,20 +15,6 @@ Video
 ```
 ```
 
-<!--------------------------------------------------------------------------------- Type -->
-<br><br>
-
-## Type
-```
-Generative AI : Variational Autoencoder
-Generative AI : Generative Adversarial Network
-Generative AI : Autoregressive language model
-Generative AI : Diffusion Model
-Generative AI : Transformers
-Generative AI : Latent Space
-Generative AI : Multimodals
-```
-
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
@@ -44,16 +30,6 @@ Training
 Gradient Descent
 Fine-tuning
 Output-Format
-```
-
-<!--------------------------------------------------------------------------------- Theory -->
-<br><br>
-
-## Theory
-```
-Neural network
-Transformers
-CNN
 ```
 
 <!--------------------------------------------------------------------------------- Parameters -->

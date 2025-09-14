@@ -50,6 +50,8 @@ Nature-inspired Computing
 Algorithm
 ```
 Neural network
+Transformers
+CNN
 ```
 Type
 ```
