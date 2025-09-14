@@ -1,7 +1,7 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI
 
-![AI](file/pic/ai.png)
+![AI](https://github.com/kashanimorteza/ai_document/blob/main/file/pic/AI.png)
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
