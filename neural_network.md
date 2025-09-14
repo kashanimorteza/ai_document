@@ -134,3 +134,15 @@ Reward model
 Medium | Abstraction | Context | Statefulness
 Token
 ```
+
+<!--------------------------------------------------------------------------------- Tools -->
+<br><br>
+
+## Tools
+<!-------------------------- Python -->
+Python
+```
+numpy
+matplotlib
+jupyter
+```

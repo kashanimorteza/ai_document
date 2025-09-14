@@ -9,25 +9,37 @@
 <!-------------------------- Book -->
 Book
 ```
-
 ```
 <!-------------------------- Website -->
 Website
 ```
-google colab     : https://colab.research.google.com/
 ```
 <!-------------------------- Video -->
 Video
 ```
-
 ```
 
-<!--------------------------------------------------------------------------------- Implement -->
+<!--------------------------------------------------------------------------------- Machine Learning -->
 <br><br>
 
-## Implement
+## Machine Learning
+Algorithm
 ```
-Machine Learning
+Neural network
+Transformers
+CNN
+```
+Extra
+```
+Deep Learning
+```
+
+<!--------------------------------------------------------------------------------- Type -->
+<br><br>
+
+## Type
+```
+
 Deep Learning
 Rule-based Systems
 Logic-based Approaches
@@ -42,35 +54,3 @@ Agent-based Methods
 Nature-inspired Computing
 ```
 
-<!--------------------------------------------------------------------------------- Machine Learning -->
-<br><br>
-
-## Machine Learning
-Algorithm
-```
-Neural network
-Transformers
-CNN
-```
-
-
-<!--------------------------------------------------------------------------------- Neural network -->
-<br><br>
-
-## Neural network
-<!-------------------------- Structure -->
-Structure
-```
-X(Input) * W(Weight) + Bias > (Sum) > (Activation) > Y 
-BackPropagation
-Layer size
-Bias
-Activation function
-```
-<!-------------------------- Python -->
-Python
-```
-numpy
-matplotlib
-jupyter
-```
