@@ -6,21 +6,40 @@
 <br><br>
 
 ## Resource
+<!-------------------------- Book -->
+Website
+```
+```
 <!-------------------------- Website -->
 Website
 ```
+https://datayad.com/
 ```
 <!-------------------------- Video -->
 Video
 ```
+Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 ```
+
+<!--------------------------------------------------------------------------------- Type -->
+<br><br>
+
+## Type
+```
+Classification Models
+Regression/Prediction Models
+Generative Models
+Reinforcement Learning Models
+Time Series Models
+LLM Models
+```
+
 
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
 ## Structure
 ```
-Theory
 Parameters
 Weights
 Hidden Layers

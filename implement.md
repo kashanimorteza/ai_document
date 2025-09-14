@@ -9,7 +9,7 @@
 <!-------------------------- Book -->
 Book
 ```
-https://datayad.com/
+
 ```
 <!-------------------------- Website -->
 Website
@@ -19,7 +19,6 @@ google colab     : https://colab.research.google.com/
 <!-------------------------- Video -->
 Video
 ```
-Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 
 ```
 
@@ -52,15 +51,6 @@ Algorithm
 Neural network
 Transformers
 CNN
-```
-Type
-```
-Classification Models
-Regression/Prediction Models
-Generative Models
-Reinforcement Learning Models
-Time Series Models
-LLM Models
 ```
 
 
