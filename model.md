@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Model
-    this is documents of ai_document : Model
+    this is documents of AI : Model
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

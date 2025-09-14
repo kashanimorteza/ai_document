@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Output
-    this is documents of ai_document : Output
+    this is documents of AI : Output
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

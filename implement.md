@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Implement
-    this is documents of ai_document : Implement
+    this is documents of AI : Implement
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
@@ -41,7 +41,26 @@ Agent-based Methods
 Nature-inspired Computing
 ```
 
-<!--------------------------------------------------------------------------------- Neural network -->
+<!--------------------------------------------------------------------------------- Machine Learning -->
+<br><br>
+
+## Machine Learning
+Algorithm
+```
+Neural network
+```
+Type
+```
+Classification Models
+Regression/Prediction Models
+Generative Models
+Reinforcement Learning Models
+Time Series Models
+LLM Models
+```
+
+
+<!--------------------------------------------------------------------------------- ML : Neural network -->
 <br><br>
 
 ## Neural network

@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Definition
-    this is documents of ai_document : Definition
+    this is documents of AI : Definition
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

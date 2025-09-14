@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Subject
-    this is documents of ai_document : Subject
+    this is documents of AI : Subject
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

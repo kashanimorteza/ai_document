@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Input
-    this is documents of ai_document : Input
+    this is documents of AI : Input
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

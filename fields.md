@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Fields
-    this is documents of ai_document : Fields
+    this is documents of AI : Fields
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

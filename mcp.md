@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : MCP
-    this is documents of ai_document : prompt
+    this is documents of AI : prompt
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
