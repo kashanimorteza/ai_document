@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
-# AI : Model
-    this is documents of AI : Model
+# AI : Neural Network
+    this is documents of AI : Neural Network
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
@@ -21,6 +21,25 @@ Video
 Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 ```
 
+<!--------------------------------------------------------------------------------- Structure -->
+<br><br>
+
+## Structure
+```
+Input
+Model
+Output
+```
+
+<!--------------------------------------------------------------------------------- Subject -->
+<br><br>
+
+## Subject
+```
+Training
+Fine-tuning
+```
+
 <!--------------------------------------------------------------------------------- Type -->
 <br><br>
 
@@ -35,55 +54,49 @@ LLM Models
 ```
 
 
-<!--------------------------------------------------------------------------------- Structure -->
+<!--------------------------------------------------------------------------------- Model -->
 <br><br>
 
-## Structure
+## Model
 ```
-Parameters
-Weights
+Input Layers
 Hidden Layers
-Activation Functions
+Output Layers
+Weights
+Bias
+Activation Functions : Sigmoid
+
+
 Attention Mechanism
-Training
 Gradient Descent
 Fine-tuning
 Output-Format
 ```
 
-<!--------------------------------------------------------------------------------- Parameters -->
+
+<!--------------------------------------------------------------------------------- Input -->
 <br><br>
 
-## Parameters
+## Input
 ```
+Type
+Lable
+Cleaning
+Normalization
+Tokenize
+Limitation
 ```
 
-<!--------------------------------------------------------------------------------- Weights -->
+<!--------------------------------------------------------------------------------- Output -->
 <br><br>
 
-## Weights
+## Output
 ```
-```
-
-<!--------------------------------------------------------------------------------- Hidden Layers -->
-<br><br>
-
-## Hidden Layers
-```
-```
-
-<!--------------------------------------------------------------------------------- Weights -->
-<br><br>
-
-## Activation Functions
-```
-```
-
-<!--------------------------------------------------------------------------------- Weights -->
-<br><br>
-
-## Attention Mechanism
-```
+Nois
+Output 
+Evaluation criteria : Accuracy, Precision, Recall, F1
+Feedback & Iteration
+Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 ```
 
 <!--------------------------------------------------------------------------------- Training -->
@@ -100,31 +113,6 @@ Online/Incremental
 Transfer/Fine-tuning
 Few-shot / Zero-shot
 Evolutionary methods
-```
-
-<!--------------------------------------------------------------------------------- Gradient Descent -->
-<br><br>
-
-## Gradient Descent
-```
-```
-
-<!--------------------------------------------------------------------------------- Fine-tuning -->
-<br><br>
-
-## Fine-tuning
-```
-```
-
-<!--------------------------------------------------------------------------------- Output-Format -->
-<br><br>
-
-## Output-Format
-```
-h5
-pt
-onnx
-joblib
 ```
 
 <!--------------------------------------------------------------------------------- Extra -->
