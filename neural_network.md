@@ -1,5 +1,5 @@
 <!--------------------------------------------------------------------------------- Description -->
-# ai_document : Neural network
+# AI : Neural network
     this is documents of ai_document : prompt
 
 <!--------------------------------------------------------------------------------- Resource -->
