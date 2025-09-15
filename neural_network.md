@@ -131,7 +131,8 @@ Sigmoid
 <br><br>
 
 # Loss Function
-## Classification problems
+<!-------------------------- Classification problems -->
+### Classification problems
 Cross-Entropy
 ```
 Cross-entropy = Loss for classification problems
