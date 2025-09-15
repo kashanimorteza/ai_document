@@ -10,6 +10,7 @@
 <!-------------------------- Book -->
 Book
 ```
+Artificial Intelligence: A Modern Approach
 AI Engineering: Building Applications with Foundation Models
 ```
 <!-------------------------- Website -->
@@ -22,6 +23,8 @@ Teachable Machine : https://teachablemachine.withgoogle.com/
 <!-------------------------- Video -->
 Video
 ```
+Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
+Youtube  : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 Youtube  : @puryadianati  : https://www.youtube.com/watch?v=Fw9DuncIeJQ
 ```
 
