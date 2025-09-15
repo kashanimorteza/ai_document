@@ -6,7 +6,7 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-## Resource  
+# Resource  
 <!-------------------------- Book -->
 Book
 ```
@@ -31,7 +31,7 @@ Youtube  : @puryadianati  : https://www.youtube.com/watch?v=Fw9DuncIeJQ
 <!--------------------------------------------------------------------------------- Road map -->
 <br><br>
 
-## Road map
+# Road map
 ```
 AI (Artificial Intelligence) 
 ML (Machine learning)
@@ -42,10 +42,10 @@ Transformer
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-## Structure
+# Structure
 ```
 Definition
-Fields
 Implement
 Subject
+Fields
 ```

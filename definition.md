@@ -5,7 +5,7 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-## Resource  
+# Resource  
 <!-------------------------- Book -->
 Book
 ```
@@ -21,10 +21,20 @@ Video
 Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
 ```
 
-<!--------------------------------------------------------------------------------- Definition -->
+<!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-## Definition
+# Structure
+```
+Input
+Model
+Output
+```
+
+<!--------------------------------------------------------------------------------- Type -->
+<br><br>
+
+# Type
 ```
 Symbolic AI → استفاده از نمادها و قوانین منطقی برای نمایش دانش و استدلال.
 Search & Problem Solving → جستجوی راه‌حل در فضای حالت با الگوریتم‌هایی مثل A* یا Minimax.
@@ -42,11 +52,10 @@ Transformers-based AI → معماری ترنسفورمر برای پردازش 
 Generative AI → مدل‌هایی برای تولید محتوای جدید مثل متن، تصویر یا صدا.
 ```
 
-
 <!--------------------------------------------------------------------------------- Book -->
 <br><br>
 
-## Book
+# Book
 <!-------------------------- Artificial Intelligence A Modern Approach -->
 ### Artificial Intelligence A Modern Approach
 

@@ -26,18 +26,6 @@ Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEK
 
 # Structure
 ```
-Input
-Model
-Output
-```
-
-<!--------------------------------------------------------------------------------- Model -->
-<br><br>
-
-# Model
-<!-------------------------- Structure -->
-### Structure
-```
 Layer     : Input Layers | Hidden Layers | Output Layers
 Parameter : Input | Weight | Bias
 Function  : Affine Transformation | Activation Functions
@@ -45,8 +33,26 @@ Gradient Descent
 Gradient
 ```
 
-<!-------------------------- Type -->
-### Type
+<!--------------------------------------------------------------------------------- Architecture -->
+<br><br>
+
+# Architecture
+```
+Feedforward Neural Network (FNN / Perceptron)
+Convolutional Neural Network (CNN)
+Recurrent Neural Network (RNN)
+Long Short-Term Memory (LSTM)
+Gated Recurrent Unit (GRU)
+Transformers
+Autoencoders
+Generative Adversarial Networks (GANs)
+Graph Neural Networks (GNNs)
+```
+
+<!--------------------------------------------------------------------------------- Model -->
+<br><br>
+
+# Type
 ```
 Classification Models
 Regression/Prediction Models
@@ -54,57 +60,6 @@ Generative Models
 Reinforcement Learning Models
 Time Series Models
 LLM Models
-```
-```
-Fully connected 
-```
-
-<!--------------------------------------------------------------------------------- Input -->
-<br><br>
-
-# Input
-```
-Type
-Lable
-Cleaning
-Normalization
-Tokenize
-Limitation
-```
-
-
-
-<!--------------------------------------------------------------------------------- Training -->
-<br><br>
-
-# Training
-<!-------------------------- Structure -->
-### Structure
-```
-Feed forward
-Error : Loss function | Cost function
-Backpropagation
-Epoch
-Batch
-```
-<!-------------------------- Type -->
-### Type
-```
-Supervised
-Unsupervised
-Semi-supervised
-Self-supervised
-Reinforcement Learning
-Online/Incremental
-Transfer/Fine-tuning
-Few-shot / Zero-shot
-Evolutionary methods
-```
-<!-------------------------- Problem -->
-### Problem
-```
-Vanishing Gradient
-Learning rate
 ```
 
 <!--------------------------------------------------------------------------------- Activation Functions -->
@@ -150,6 +105,52 @@ Definition | Function | Advantages | Disadvantages | Where it’s used today
 ### Type
 ```
 Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | Adam
+```
+
+<!--------------------------------------------------------------------------------- Training -->
+<br><br>
+
+# Training
+<!-------------------------- Structure -->
+### Structure
+```
+Feed forward
+Error : Loss function | Cost function
+Backpropagation
+Epoch
+Batch
+```
+<!-------------------------- Type -->
+### Type
+```
+Supervised
+Unsupervised
+Semi-supervised
+Self-supervised
+Reinforcement Learning
+Online/Incremental
+Transfer/Fine-tuning
+Few-shot / Zero-shot
+Evolutionary methods
+```
+<!-------------------------- Problem -->
+### Problem
+```
+Vanishing Gradient
+Learning rate
+```
+
+<!--------------------------------------------------------------------------------- Input -->
+<br><br>
+
+# Input
+```
+Type
+Lable
+Cleaning
+Normalization
+Tokenize
+Limitation
 ```
 
 <!--------------------------------------------------------------------------------- Output -->
