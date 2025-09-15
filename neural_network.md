@@ -90,7 +90,15 @@ Limitation
 <br><br>
 
 # Training
-Type
+<!-------------------------- Structure -->
+### Structure
+```
+Feed forward
+Error : Loss function | Cost function
+Backpropagation
+```
+<!-------------------------- Type -->
+### Type
 ```
 Supervised
 Unsupervised
@@ -102,11 +110,10 @@ Transfer/Fine-tuning
 Few-shot / Zero-shot
 Evolutionary methods
 ```
-Process
+<!-------------------------- Problem -->
+### Problem
 ```
-Feed forward
-Error : Loss function | Cost function
-Backpropagation
+Vanishing Gradient
 ```
 
 <!--------------------------------------------------------------------------------- Activation Functions -->
@@ -116,33 +123,26 @@ Backpropagation
 <!-------------------------- Structure -->
 ### Structure
 ```
-Function
-Derivative
-Input
-Output
-Shape
-Advantages
-Disadvantages
-Where it’s used today
+Function | Derivative | Input | Output | Shape | Advantages | Disadvantages | Where it’s used today
 ```
 <!-------------------------- Type -->
 ### Type
 ```
-Linear
-Sigmoid
-Tanh
+Linear | Sigmoid | Tanh | ReLU | ELU | Leaky ReLU | Softmax
 ```
-
 
 <!--------------------------------------------------------------------------------- Loss Function -->
 <br><br>
 
 # Loss Function
-<!-------------------------- Classification -->
-### Classification
-<!---------- Cross-Entropy -->
-#### Cross-Entropy
+<!-------------------------- Structure -->
+### Structure
 ```
+```
+<!-------------------------- Type -->
+### Type
+```
+Cross-Entropy
 ```
 
 <!--------------------------------------------------------------------------------- Output -->
@@ -156,26 +156,6 @@ Output
 Evaluation criteria : Accuracy, Precision, Recall, F1
 Feedback & Iteration
 Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
-```
-
-<!--------------------------------------------------------------------------------- Extra -->
-<br><br>
-
-# Extra
-```
-seq2seq
-Transformer
-Train
-Foundation model
-Fine-Tuning
-Token
-Temperature
-Matching
-Masking
-RLHF
-Reward model
-Medium | Abstraction | Context | Statefulness
-Token
 ```
 
 <!--------------------------------------------------------------------------------- Tools -->
@@ -196,4 +176,24 @@ jupyter
 # Note
 ```
 Activation Functions Must be differentiable
+```
+
+<!--------------------------------------------------------------------------------- Extra -->
+<br><br>
+
+# Extra
+```
+seq2seq
+Transformer
+Train
+Foundation model
+Fine-Tuning
+Token
+Temperature
+Matching
+Masking
+RLHF
+Reward model
+Medium | Abstraction | Context | Statefulness
+Token
 ```
