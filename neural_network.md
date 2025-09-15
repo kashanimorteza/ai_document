@@ -118,6 +118,7 @@ Evolutionary methods
 ### Problem
 ```
 Vanishing Gradient
+Learning rate
 ```
 
 <!--------------------------------------------------------------------------------- Activation Functions -->
@@ -162,9 +163,7 @@ Definition | Function | Advantages | Disadvantages | Where it’s used today
 <!-------------------------- Type -->
 ### Type
 ```
-Gradient Descent
-Stochastic Gradient Descent
-Momentum
+Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | Adam
 ```
 
 <!--------------------------------------------------------------------------------- Output -->
