@@ -31,6 +31,8 @@ Model
 Output
 ```
 
+
+
 <!--------------------------------------------------------------------------------- Subject -->
 <br><br>
 
@@ -96,6 +98,8 @@ Limitation
 Feed forward
 Error : Loss function | Cost function
 Backpropagation
+Epoch
+Batch
 ```
 <!-------------------------- Type -->
 ### Type
@@ -143,6 +147,19 @@ Linear | Sigmoid | Tanh | ReLU | ELU | Leaky ReLU | Softmax
 ### Type
 ```
 Cross-Entropy
+```
+
+<!--------------------------------------------------------------------------------- Optimizer -->
+<br><br>
+
+# Optimizer
+<!-------------------------- Structure -->
+### Structure
+```
+```
+<!-------------------------- Type -->
+### Type
+```
 ```
 
 <!--------------------------------------------------------------------------------- Output -->
