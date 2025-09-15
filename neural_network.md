@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # AI : Neural Network
-    this is documents of AI : Neural Network
+    AI : Learning : Deep Learning : Algorithm : Neural Network
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>

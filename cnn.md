@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
-# AI : Implement : Neural Network : CNN
-    this is documents of AI : Implement : Neural Network : CNN
+# AI : CNN
+    AI : Learning : Deep Learning : Algorithm : Neural Network : CNN
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
