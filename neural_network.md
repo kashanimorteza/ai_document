@@ -31,23 +31,22 @@ Model
 Output
 ```
 
-
-
-<!--------------------------------------------------------------------------------- Subject -->
+<!--------------------------------------------------------------------------------- Model -->
 <br><br>
 
-# Subject
+# Model
+<!-------------------------- Structure -->
+### Structure
 ```
-Training
-Fine-tuning
-Attention Mechanism
-Transformer
+Layer     : Input Layers | Hidden Layers | Output Layers
+Parameter : Input | Weight | Bias
+Function  : Affine Transformation | Activation Functions
+Gradient Descent
+Gradient
 ```
 
-<!--------------------------------------------------------------------------------- Type -->
-<br><br>
-
-# Type
+<!-------------------------- Type -->
+### Type
 ```
 Classification Models
 Regression/Prediction Models
@@ -56,21 +55,8 @@ Reinforcement Learning Models
 Time Series Models
 LLM Models
 ```
-
-<!--------------------------------------------------------------------------------- Model -->
-<br><br>
-
-# Model
 ```
-Input Layers
-Hidden Layers
-Output Layers
-Weights
-Bias
-Activation Functions : Sigmoid
-
-Gradient Descent
-Gradient
+Fully connected 
 ```
 
 <!--------------------------------------------------------------------------------- Input -->
@@ -189,6 +175,17 @@ Python
 numpy
 matplotlib
 jupyter
+```
+
+<!--------------------------------------------------------------------------------- Subject -->
+<br><br>
+
+# Subject
+```
+Training
+Fine-tuning
+Attention Mechanism
+Transformer
 ```
 
 <!--------------------------------------------------------------------------------- Note -->
