@@ -176,3 +176,22 @@ jupyter
 Activation Functions Must be differentiable
 ```
 
+<!--------------------------------------------------------------------------------- Extra -->
+<br><br>
+
+# Extra
+```
+seq2seq
+Transformer
+Train
+Foundation model
+Fine-Tuning
+Token
+Temperature
+Matching
+Masking
+RLHF
+Reward model
+Medium | Abstraction | Context | Statefulness
+Token
+```

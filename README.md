@@ -45,98 +45,77 @@ Transformer
 ## Structure
 ```
 Problem
-Problem Solving
+Resolve
 ```
 
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
 ## Problem
+Core
 ```
 Classification
 Regression / Prediction
 Clustering
 Dimensionality Reduction
 Anomaly Detection
-Recommendation
+Recommendation (Recommender Systems)
 Game Playing / Adversarial
-Natural Language Processing
+```
+Specialized
+```
 Computer Vision
-Computer Vision
-Natural Language Processing
+Natural Language Processing (NLP) / Speech Recognition
 Robotics
-Recommender Systems
 Autonomous Vehicles
-Speech Recognition
-Medical AI & Healthcare
-Finance & Banking
-Games & Entertainment
-Smart Agriculture
-Cybersecurity
-E-commerce & Retail
-Education
-Smart Cities
-Manufacturing & Industry 4.0
-Transformers
+```
 Generative
 ```
+Generative (text, images, audio, video)
+Transformers (as architecture powering many models)
+```
 
-
-<!--------------------------------------------------------------------------------- Problem Solving -->
+<!--------------------------------------------------------------------------------- Resolve -->
 <br><br>
 
-## Solving
+## Resolve
 ```
-Machine Learning
-Deep Learning
-Reinforcement Learning
-Rule-based Systems
-Logic-based Approaches
-Expert Systems
-Evolutionary Algorithms
-Genetic Algorithms
-Nature-inspired Computing
-Swarm Intelligence
-Uninformed (BFS, DFS)
-Informed/Heuristic (A*)
-Adversarial (Minimax)
-Bayesian Networks
-Probabilistic Models
-Hybrid Approaches
-Agent-based Methods
+Learning-based Methods (Machine Learning, Deep Learning, Reinforcement Learning)
+Search-based Methods (BFS, DFS, A*, Minimax)
+Rule/Logic-based Methods (Rule-based, Logic-based, Expert Systems)
+Probabilistic Methods (Bayesian Networks, Probabilistic Reasoning)
+Evolutionary & Nature-inspired Methods (GA, Swarm Intelligence, Genetic Algorithms)
+Hybrid & Agent-based Methods (Hybrid AI, Multi-agent systems)
+reasoning : Fuzzy Logic
+PPlication : Speech Recognizition
 ```
 
-<!--------------------------------------------------------------------------------- Learning -->
+<!--------------------------------------------------------------------------------- Subject -->
 <br><br>
 
 ## Subject
 ```
-Generative AI
 MCP
 Agent
-Generative AI
-MCP
-Agent
-Machine Learning
-NLP
-Speech Recognizition
-Computer Vision
-Deep Learning
-Expert Systems
-Fuzzy Logic
-Generative AI : Variational Autoencoder
-Generative AI : Generative Adversarial Network
-Generative AI : Autoregressive language model
-Generative AI : Diffusion Model
-Generative AI : Transformers
-Generative AI : Latent Space
-Generative AI : Multimodals
 ```
 
-<!--------------------------------------------------------------------------------- Learning -->
+<!--------------------------------------------------------------------------------- Problem : Computer Vision -->
 <br><br>
 
-## Learning
+## Problem : Computer Vision
+```
+Image Classification
+Object Detection
+Image Segmentation
+Image Processing
+Face Recognition
+Optical Character Recognition (OCR)
+```
+
+<!--------------------------------------------------------------------------------- Resolve : Learning -->
+<br><br>
+
+## Resolve : Learning
 
 Algorithm
 
@@ -155,27 +134,6 @@ Transformers
 Autoencoders
 Generative Adversarial Networks (GANs)
 Graph Neural Networks (GNNs)
-```
-
-
-<!--------------------------------------------------------------------------------- Extra -->
-<br><br>
-
-# Extra
-```
-seq2seq
-Transformer
-Train
-Foundation model
-Fine-Tuning
-Token
-Temperature
-Matching
-Masking
-RLHF
-Reward model
-Medium | Abstraction | Context | Statefulness
-Token
 ```
 
 <!--------------------------------------------------------------------------------- Links -->
