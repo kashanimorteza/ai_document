@@ -158,6 +158,26 @@ Graph Neural Networks (GNNs)
 ```
 
 
+<!--------------------------------------------------------------------------------- Extra -->
+<br><br>
+
+# Extra
+```
+seq2seq
+Transformer
+Train
+Foundation model
+Fine-Tuning
+Token
+Temperature
+Matching
+Masking
+RLHF
+Reward model
+Medium | Abstraction | Context | Statefulness
+Token
+```
+
 <!--------------------------------------------------------------------------------- Links -->
 [Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
 [CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
