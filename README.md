@@ -43,12 +43,14 @@ Transformer
 <br><br>
 
 # Structure
+Definition : [ddd]
+
 ```
-Definition : [Definition] 
+Definition : [ddd] 
 Implement
 Subject
 Fields
 ```
 
 
-[Definition]: https://github.com/kashanimorteza/ai_document/tree/main/definition.md
+[ddd]: https://github.com/kashanimorteza/ai_document/tree/main/definition.md
