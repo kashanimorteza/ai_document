@@ -22,30 +22,82 @@ Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artif
 
 # Structure
 ```
-Input
-Model
-Output
+Problem
+Problem Solving
 ```
 
-<!--------------------------------------------------------------------------------- Type -->
+<!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
-# Type
+# Problem
 ```
-Symbolic AI → استفاده از نمادها و قوانین منطقی برای نمایش دانش و استدلال.
-Search & Problem Solving → جستجوی راه‌حل در فضای حالت با الگوریتم‌هایی مثل A* یا Minimax.
-Statistical AI → استفاده از مدل‌های آماری و احتمالاتی برای پیش‌بینی و تصمیم‌گیری.
-Logic-based AI → استنتاج و حل مسئله با منطق گزاره‌ای و مرتبه اول.
-Rule-based AI → سیستم‌های خبره با قوانین «اگر… آنگاه…».
-Knowledge-based AI → نمایش و استفاده از دانش صریح در سیستم‌ها.
-Neural AI → شبکه‌های عصبی الهام‌گرفته از مغز برای یادگیری الگوها.
-Adaptive AI → سیستم‌هایی که رفتارشان را بر اساس تجربه تغییر می‌دهند.
-Hybrid AI → ترکیب روش‌های نمادین و آماری یا شبکه‌های عصبی.
-Agent-based AI → عامل‌های هوشمند که محیط را درک کرده و عمل می‌کنند.
-Distributed AI → چند عامل یا سیستم هوشمند همکاری و تعامل دارند.
-Autonomous AI → سیستم‌های خودمختار که مستقل تصمیم می‌گیرند.
-Transformers-based AI → معماری ترنسفورمر برای پردازش توالی‌ها با مکانیزم توجه.
-Generative AI → مدل‌هایی برای تولید محتوای جدید مثل متن، تصویر یا صدا.
+Well-defined problems
+Undefined problems
+```
+```
+Classification
+Regression / Prediction
+Clustering
+Dimensionality Reduction
+Anomaly Detection
+Recommendation
+Game Playing / Adversarial
+Natural Language Processing
+Computer Vision
+Transformers
+Generative
+```
+
+
+<!--------------------------------------------------------------------------------- Problem Solving -->
+<br><br>
+
+# Problem Solving
+<!-------------------------- Learning -->
+### Learning
+```
+Machine Learning
+Deep Learning
+Reinforcement Learning
+```
+<!-------------------------- Rule/Logic-based Methods -->
+### Rule/Logic-based Methods
+```
+Rule-based Systems
+Logic-based Approaches
+Expert Systems
+```
+<!-------------------------- Evolutionary & Nature-inspired -->
+### Evolutionary & Nature-inspired
+```
+Evolutionary Algorithms
+Genetic Algorithms
+Nature-inspired Computing
+Swarm Intelligence
+```
+<!-------------------------- Search -->
+### Search
+```
+Uninformed (BFS, DFS)
+Informed/Heuristic (A*)
+Adversarial (Minimax)
+```
+<!-------------------------- Probabilistic Models -->
+### Probabilistic Models
+```
+Bayesian Networks
+Probabilistic Models
+```
+<!-------------------------- Classical NLP -->
+### Classical NLP
+```
+Classical NLP
+```
+<!-------------------------- Hybrid & Agent-based -->
+### Hybrid & Agent-based
+```
+Hybrid Approaches
+Agent-based Methods
 ```
 
 <!--------------------------------------------------------------------------------- Book -->
