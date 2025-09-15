@@ -2,27 +2,10 @@
 # AI : Implement
     this is documents of AI : Implement
 
-<!--------------------------------------------------------------------------------- Resource -->
-<br><br>
-
-## Resource  
-<!-------------------------- Book -->
-Book
-```
-```
-<!-------------------------- Website -->
-Website
-```
-```
-<!-------------------------- Video -->
-Video
-```
-```
-
 <!--------------------------------------------------------------------------------- Type -->
 <br><br>
 
-## Type
+# Type
 ```
 Machine Learning
 Deep Learning
@@ -42,16 +25,14 @@ Nature-inspired Computing
 <!--------------------------------------------------------------------------------- Machine Learning -->
 <br><br>
 
-## Machine Learning
-Algorithm
-```
-Neural network
-Transformers
-CNN
-```
-Extra
-```
-Deep Learning
-```
+# Machine Learning
+<!-------------------------- Algorithm -->
+### Algorithm
+
+[Neural network]
+
+
+<!--------------------------------------------------------------------------------- Links -->
+[Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
 
 
