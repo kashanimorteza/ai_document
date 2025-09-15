@@ -21,32 +21,28 @@ Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artif
 <br><br>
 
 # Structure
-```
-Problem
-Problem Solving
-```
+<!-------------------------- Problem -->
+### Problem
+
+<!-------------------------- Problem Solving -->
+### Problem Solving
 
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
 # Problem
-```
-Well-defined problems
-Undefined problems
-```
-```
-Classification
-Regression / Prediction
-Clustering
-Dimensionality Reduction
-Anomaly Detection
-Recommendation
-Game Playing / Adversarial
-Natural Language Processing
-Computer Vision
-Transformers
-Generative
-```
+### Classification
+### Regression / Prediction
+### Clustering
+### Dimensionality Reduction
+### Anomaly Detection
+### Recommendation
+### Game Playing / Adversarial
+### Natural Language Processing
+### Computer Vision
+### Transformers
+### Generative
+
 
 
 <!--------------------------------------------------------------------------------- Problem Solving -->
