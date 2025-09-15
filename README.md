@@ -51,8 +51,6 @@ Transformer
 
 [Field]
 
-
-
 <!--------------------------------------------------------------------------------- Links -->
 [Definition]: https://github.com/kashanimorteza/ai_document/tree/main/definition.md
 [Implement]: https://github.com/kashanimorteza/ai_document/tree/main/implement.md

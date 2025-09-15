@@ -26,9 +26,6 @@ Nature-inspired Computing
 <br><br>
 
 # Machine Learning
-<!-------------------------- Algorithm -->
-### Algorithm
-
 [Neural network]
 
 
