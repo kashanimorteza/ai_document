@@ -42,22 +42,6 @@ Dense Layer (Fully Connected Layer)
 CNN (Convolutional Neural Network Layer)
 ```
 
-<!--------------------------------------------------------------------------------- Architecture -->
-<br><br>
-
-# Architecture
-```
-Feedforward Neural Network (FNN / Perceptron)
-Convolutional Neural Network (CNN)
-Recurrent Neural Network (RNN)
-Long Short-Term Memory (LSTM)
-Gated Recurrent Unit (GRU)
-Transformers
-Autoencoders
-Generative Adversarial Networks (GANs)
-Graph Neural Networks (GNNs)
-```
-
 <!--------------------------------------------------------------------------------- Model -->
 <br><br>
 

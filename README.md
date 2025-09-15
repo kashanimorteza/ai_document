@@ -138,12 +138,14 @@ Generative AI : Multimodals
 
 # Learning
 
-### [Neural network]
-<!-------------------------- Structure -->
-Architecture
+### Algorithm
+[Neural network]
+
+### Architecture
+[Convolutional Neural Network (CNN)]
+
 ```
 Feedforward Neural Network (FNN / Perceptron)
-Convolutional Neural Network (CNN)
 Recurrent Neural Network (RNN)
 Long Short-Term Memory (LSTM)
 Gated Recurrent Unit (GRU)
@@ -156,3 +158,4 @@ Graph Neural Networks (GNNs)
 
 <!--------------------------------------------------------------------------------- Links -->
 [Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
+[Convolutional Neural Network (CNN)]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
