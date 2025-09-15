@@ -84,17 +84,7 @@ Tokenize
 Limitation
 ```
 
-<!--------------------------------------------------------------------------------- Output -->
-<br><br>
 
-# Output
-```
-Nois
-Output 
-Evaluation criteria : Accuracy, Precision, Recall, F1
-Feedback & Iteration
-Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
-```
 
 <!--------------------------------------------------------------------------------- Training -->
 <br><br>
@@ -123,9 +113,15 @@ Backpropagation
 <br><br>
 
 # Activation Functions
+<!-------------------------- Linear -->
+### Linear
 ```
-Sigmoid
 ```
+<!-------------------------- Sigmoid -->
+### Sigmoid
+```
+```
+
 
 <!--------------------------------------------------------------------------------- Loss Function -->
 <br><br>
@@ -136,9 +132,19 @@ Sigmoid
 <!---------- Cross-Entropy -->
 #### Cross-Entropy
 ```
-Cross-entropy = Loss for classification problems
-Compares true labels vs. predicted probabilities
-Softmax + Cross-Entropy = standard for multi-class neural nets
+```
+
+<!--------------------------------------------------------------------------------- Output -->
+<br><br>
+
+# Output
+```
+Predict
+Nois
+Output 
+Evaluation criteria : Accuracy, Precision, Recall, F1
+Feedback & Iteration
+Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 ```
 
 <!--------------------------------------------------------------------------------- Extra -->
