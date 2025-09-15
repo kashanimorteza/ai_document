@@ -26,6 +26,11 @@ Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEK
 
 # Structure
 ```
+Input
+Model
+Output
+```
+```
 Layer     : Input Layers | Hidden Layers | Output Layers
 Parameter : Input | Weight | Bias
 Function  : Affine Transformation | Activation Functions

@@ -21,128 +21,116 @@ Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artif
 <br><br>
 
 # Structure
-<!-------------------------- Problem -->
-### Problem
-
-<!-------------------------- Problem Solving -->
-### Problem Solving
+```
+Problem
+Problem Solving
+```
 
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
 # Problem
-### Classification
-### Regression / Prediction
-### Clustering
-### Dimensionality Reduction
-### Anomaly Detection
-### Recommendation
-### Game Playing / Adversarial
-### Natural Language Processing
-### Computer Vision
-### Transformers
-### Generative
-
+```
+Classification
+Regression / Prediction
+Clustering
+Dimensionality Reduction
+Anomaly Detection
+Recommendation
+Game Playing / Adversarial
+Natural Language Processing
+Computer Vision
+Computer Vision
+Natural Language Processing
+Robotics
+Recommender Systems
+Autonomous Vehicles
+Speech Recognition
+Medical AI & Healthcare
+Finance & Banking
+Games & Entertainment
+Smart Agriculture
+Cybersecurity
+E-commerce & Retail
+Education
+Smart Cities
+Manufacturing & Industry 4.0
+Transformers
+Generative
+```
 
 
 <!--------------------------------------------------------------------------------- Problem Solving -->
 <br><br>
 
-# Problem Solving
-<!-------------------------- Learning -->
-### Learning
+# Solving
 ```
 Machine Learning
 Deep Learning
 Reinforcement Learning
-```
-<!-------------------------- Rule/Logic-based Methods -->
-### Rule/Logic-based Methods
-```
 Rule-based Systems
 Logic-based Approaches
 Expert Systems
-```
-<!-------------------------- Evolutionary & Nature-inspired -->
-### Evolutionary & Nature-inspired
-```
 Evolutionary Algorithms
 Genetic Algorithms
 Nature-inspired Computing
 Swarm Intelligence
-```
-<!-------------------------- Search -->
-### Search
-```
 Uninformed (BFS, DFS)
 Informed/Heuristic (A*)
 Adversarial (Minimax)
-```
-<!-------------------------- Probabilistic Models -->
-### Probabilistic Models
-```
 Bayesian Networks
 Probabilistic Models
-```
-<!-------------------------- Classical NLP -->
-### Classical NLP
-```
-Classical NLP
-```
-<!-------------------------- Hybrid & Agent-based -->
-### Hybrid & Agent-based
-```
 Hybrid Approaches
 Agent-based Methods
 ```
 
-<!--------------------------------------------------------------------------------- Book -->
+<!--------------------------------------------------------------------------------- Learning -->
 <br><br>
 
-# Book
-<!-------------------------- Artificial Intelligence A Modern Approach -->
-### Artificial Intelligence A Modern Approach
+# Subject
+```
+Generative AI
+MCP
+Agent
+Generative AI
+MCP
+Agent
+Machine Learning
+NLP
+Speech Recognizition
+Computer Vision
+Deep Learning
+Expert Systems
+Fuzzy Logic
+Generative AI : Variational Autoencoder
+Generative AI : Generative Adversarial Network
+Generative AI : Autoregressive language model
+Generative AI : Diffusion Model
+Generative AI : Transformers
+Generative AI : Latent Space
+Generative AI : Multimodals
+```
 
-<!------------- AI -->
-AI
+<!--------------------------------------------------------------------------------- Learning -->
+<br><br>
+
+# Learning
+
+### [Neural network]
+<!-------------------------- Structure -->
+Architecture
 ```
-Base      : Thought and Reasoning | Action and Behavior
-Attention : Human | Rationality
+Feedforward Neural Network (FNN / Perceptron)
+Convolutional Neural Network (CNN)
+Recurrent Neural Network (RNN)
+Long Short-Term Memory (LSTM)
+Gated Recurrent Unit (GRU)
+Transformers
+Autoencoders
+Generative Adversarial Networks (GANs)
+Graph Neural Networks (GNNs)
 ```
-```
-Thinking Humanly    : Cognitive science
-Acting Humanly      : Turing theory
-Thinking Rationally : ----
-Acting Rationally   : it's ok
-```
-<!------------- Intelligent agents -->
-Intelligent agents
-```
-Percept > Agent > Action
-Action = Agent([Percepts])
-State-Space
-1. har mohit daraye tedadi az halat ha ast
-2. dar har lahze amel dakhele ye ki az on mohit ha ast
-3. amale amel baes mishe az yek state be ye state dige mire
-Performance Measure : no-Behavior just Goal 
-Prior knowledge
-Omniscience | Perfection
-Rationality : Prior knowledge + Percepts + Actions + Performance Measure
-PEAS : Performance measure | Environment | Actuators | Sensors
-Environment : Fully or Partially observable | Deterministic | Episodic | Sequential | Static | Discrete or Continuous | Single or Multi agant 
-Agent : Input > Function > Output
-Agent : Simple reflex | Model-based | Goal-based | Utility-based
-```
-<!------------- Problem-Solving Agents -->
-Problem-Solving Agents
-```
-Goal formulation
-Problem formulation
-Search
-```
-<!------------- Search -->
-Search
-```
-Informed search
-Unconscious search
-```
+
+
+<!--------------------------------------------------------------------------------- Links -->
+[Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
