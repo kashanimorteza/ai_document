@@ -133,7 +133,8 @@ Sigmoid
 # Loss Function
 <!-------------------------- Classification -->
 ### Classification
-Cross-Entropy
+<!---------- Cross-Entropy -->
+#### Cross-Entropy
 ```
 Cross-entropy = Loss for classification problems
 Compares true labels vs. predicted probabilities
