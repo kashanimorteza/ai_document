@@ -38,6 +38,8 @@ Output
 ```
 Training
 Fine-tuning
+Attention Mechanism
+Transformer
 ```
 
 <!--------------------------------------------------------------------------------- Type -->
@@ -53,7 +55,6 @@ Time Series Models
 LLM Models
 ```
 
-
 <!--------------------------------------------------------------------------------- Model -->
 <br><br>
 
@@ -66,13 +67,9 @@ Weights
 Bias
 Activation Functions : Sigmoid
 
-
-Attention Mechanism
 Gradient Descent
-Fine-tuning
-Output-Format
+Gradient
 ```
-
 
 <!--------------------------------------------------------------------------------- Input -->
 <br><br>
@@ -103,6 +100,7 @@ Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 <br><br>
 
 ## Training
+Type
 ```
 Supervised
 Unsupervised
@@ -113,6 +111,32 @@ Online/Incremental
 Transfer/Fine-tuning
 Few-shot / Zero-shot
 Evolutionary methods
+```
+Process
+```
+Feed forward
+Error : Loss function | Cost function
+Backpropagation
+```
+
+<!--------------------------------------------------------------------------------- Activation Functions -->
+<br><br>
+
+## Activation Functions
+```
+Sigmoid
+```
+
+<!--------------------------------------------------------------------------------- Loss Function -->
+<br><br>
+
+## Loss Function
+### Classification problems
+Cross-Entropy
+```
+Cross-entropy = Loss for classification problems
+Compares true labels vs. predicted probabilities
+Softmax + Cross-Entropy = standard for multi-class neural nets
 ```
 
 <!--------------------------------------------------------------------------------- Extra -->
@@ -145,4 +169,12 @@ Python
 numpy
 matplotlib
 jupyter
+```
+
+<!--------------------------------------------------------------------------------- Note -->
+<br><br>
+
+## Note
+```
+Activation Functions Must be differentiable
 ```
