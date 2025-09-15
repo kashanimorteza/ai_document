@@ -5,7 +5,7 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-## Resource
+# Resource
 <!-------------------------- Book -->
 Website
 ```
@@ -24,7 +24,7 @@ Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEK
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-## Structure
+# Structure
 ```
 Input
 Model
@@ -34,7 +34,7 @@ Output
 <!--------------------------------------------------------------------------------- Subject -->
 <br><br>
 
-## Subject
+# Subject
 ```
 Training
 Fine-tuning
@@ -45,7 +45,7 @@ Transformer
 <!--------------------------------------------------------------------------------- Type -->
 <br><br>
 
-## Type
+# Type
 ```
 Classification Models
 Regression/Prediction Models
@@ -58,7 +58,7 @@ LLM Models
 <!--------------------------------------------------------------------------------- Model -->
 <br><br>
 
-## Model
+# Model
 ```
 Input Layers
 Hidden Layers
@@ -74,7 +74,7 @@ Gradient
 <!--------------------------------------------------------------------------------- Input -->
 <br><br>
 
-## Input
+# Input
 ```
 Type
 Lable
@@ -87,7 +87,7 @@ Limitation
 <!--------------------------------------------------------------------------------- Output -->
 <br><br>
 
-## Output
+# Output
 ```
 Nois
 Output 
@@ -99,7 +99,7 @@ Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 <!--------------------------------------------------------------------------------- Training -->
 <br><br>
 
-## Training
+# Training
 Type
 ```
 Supervised
@@ -122,7 +122,7 @@ Backpropagation
 <!--------------------------------------------------------------------------------- Activation Functions -->
 <br><br>
 
-## Activation Functions
+# Activation Functions
 ```
 Sigmoid
 ```
@@ -130,8 +130,8 @@ Sigmoid
 <!--------------------------------------------------------------------------------- Loss Function -->
 <br><br>
 
-## Loss Function
-### Classification problems
+# Loss Function
+## Classification problems
 Cross-Entropy
 ```
 Cross-entropy = Loss for classification problems
@@ -142,7 +142,7 @@ Softmax + Cross-Entropy = standard for multi-class neural nets
 <!--------------------------------------------------------------------------------- Extra -->
 <br><br>
 
-## Extra
+# Extra
 ```
 seq2seq
 Transformer
@@ -162,7 +162,7 @@ Token
 <!--------------------------------------------------------------------------------- Tools -->
 <br><br>
 
-## Tools
+# Tools
 <!-------------------------- Python -->
 Python
 ```
@@ -174,7 +174,7 @@ jupyter
 <!--------------------------------------------------------------------------------- Note -->
 <br><br>
 
-## Note
+# Note
 ```
 Activation Functions Must be differentiable
 ```
