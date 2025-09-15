@@ -7,7 +7,7 @@
 
 # Resource
 <!-------------------------- Book -->
-Website
+Book
 ```
 ```
 <!-------------------------- Website -->
@@ -67,12 +67,12 @@ LLM Models
 
 # Activation Functions
 <!-------------------------- Structure -->
-### Structure
+Structure
 ```
 Definition | Function | Derivative | Input | Output | Shape | Advantages | Disadvantages | Where it’s used today
 ```
 <!-------------------------- Type -->
-### Type
+Type
 ```
 Linear | Sigmoid | Tanh | ReLU | ELU | Leaky ReLU | Softmax
 ```
