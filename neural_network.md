@@ -32,6 +32,10 @@ Function  : Affine Transformation | Activation Functions
 Gradient Descent
 Gradient
 ```
+```
+Dense Layer (Fully Connected Layer)
+CNN (Convolutional Neural Network Layer)
+```
 
 <!--------------------------------------------------------------------------------- Architecture -->
 <br><br>
@@ -182,6 +186,7 @@ Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 <!-------------------------- Python -->
 Python
 ```
+cv2
 numpy
 matplotlib
 jupyter
