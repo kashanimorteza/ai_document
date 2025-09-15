@@ -44,7 +44,7 @@ Transformer
 
 # Structure
 ```
-[Definition]
+Definition : [Definition] 
 Implement
 Subject
 Fields
