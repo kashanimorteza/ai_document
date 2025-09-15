@@ -82,12 +82,12 @@ Linear | Sigmoid | Tanh | ReLU | ELU | Leaky ReLU | Softmax
 
 # Loss Function
 <!-------------------------- Structure -->
-### Structure
+Structure
 ```
 Definition |
 ```
 <!-------------------------- Type -->
-### Type
+Type
 ```
 Cross-Entropy
 ```
@@ -97,12 +97,12 @@ Cross-Entropy
 
 # Optimizer
 <!-------------------------- Structure -->
-### Structure
+Structure
 ```
 Definition | Function | Advantages | Disadvantages | Where it’s used today
 ```
 <!-------------------------- Type -->
-### Type
+Type
 ```
 Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | Adam
 ```
@@ -112,7 +112,7 @@ Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | 
 
 # Training
 <!-------------------------- Structure -->
-### Structure
+Structure
 ```
 Feed forward
 Error : Loss function | Cost function
@@ -121,7 +121,7 @@ Epoch
 Batch
 ```
 <!-------------------------- Type -->
-### Type
+Type
 ```
 Supervised
 Unsupervised
@@ -134,7 +134,7 @@ Few-shot / Zero-shot
 Evolutionary methods
 ```
 <!-------------------------- Problem -->
-### Problem
+Problem
 ```
 Vanishing Gradient
 Learning rate
