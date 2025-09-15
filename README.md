@@ -144,7 +144,7 @@ Algorithm
 
 Architecture
 
-[Convolutional Neural Network (CNN)]
+[CNN : Convolutional Neural Network]
 
 ```
 Feedforward Neural Network (FNN / Perceptron)
@@ -160,4 +160,4 @@ Graph Neural Networks (GNNs)
 
 <!--------------------------------------------------------------------------------- Links -->
 [Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
-[Convolutional Neural Network (CNN)]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
+[CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
