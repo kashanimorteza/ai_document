@@ -127,7 +127,7 @@ Vanishing Gradient
 <!-------------------------- Structure -->
 ### Structure
 ```
-Function | Derivative | Input | Output | Shape | Advantages | Disadvantages | Where it’s used today
+Definition | Function | Derivative | Input | Output | Shape | Advantages | Disadvantages | Where it’s used today
 ```
 <!-------------------------- Type -->
 ### Type
@@ -142,6 +142,7 @@ Linear | Sigmoid | Tanh | ReLU | ELU | Leaky ReLU | Softmax
 <!-------------------------- Structure -->
 ### Structure
 ```
+Definition |
 ```
 <!-------------------------- Type -->
 ### Type
@@ -156,10 +157,14 @@ Cross-Entropy
 <!-------------------------- Structure -->
 ### Structure
 ```
+Definition | Function | Advantages | Disadvantages | Where it’s used today
 ```
 <!-------------------------- Type -->
 ### Type
 ```
+Gradient Descent
+Stochastic Gradient Descent
+Momentum
 ```
 
 <!--------------------------------------------------------------------------------- Output -->
