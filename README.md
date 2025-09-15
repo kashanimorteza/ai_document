@@ -79,15 +79,48 @@ Transformers (as architecture powering many models)
 <br><br>
 
 ## Resolve
+Learning-based Methods 
 ```
-Learning-based Methods (Machine Learning, Deep Learning, Reinforcement Learning)
-Search-based Methods (BFS, DFS, A*, Minimax)
-Rule/Logic-based Methods (Rule-based, Logic-based, Expert Systems)
-Probabilistic Methods (Bayesian Networks, Probabilistic Reasoning)
-Evolutionary & Nature-inspired Methods (GA, Swarm Intelligence, Genetic Algorithms)
-Hybrid & Agent-based Methods (Hybrid AI, Multi-agent systems)
-reasoning : Fuzzy Logic
-PPlication : Speech Recognizition
+Machine Learning
+Deep Learning
+Reinforcement Learning
+```
+Search-based Methods
+```
+BFS
+DFS
+A*
+Minimax
+```
+Rule/Logic-based Methods
+```
+Rule-based
+Logic-based
+Expert Systems
+```
+Probabilistic Methods
+```
+Bayesian Networks
+Probabilistic Reasoning
+```
+Evolutionary & Nature-inspired Methods
+```
+GA
+Swarm Intelligence
+Genetic Algorithms
+```
+Hybrid & Agent-based Methods
+```
+Hybrid AI
+Multi-agent systems
+```
+Reasoning
+```
+Fuzzy Logic
+```
+Application
+```
+Speech Recognizition
 ```
 
 <!--------------------------------------------------------------------------------- Subject -->
