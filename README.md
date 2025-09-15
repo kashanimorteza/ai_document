@@ -6,7 +6,7 @@
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-# Resource  
+## Resource  
 <!-------------------------- Book -->
 Book
 ```
@@ -31,7 +31,7 @@ Youtube  : @puryadianati  : https://www.youtube.com/watch?v=Fw9DuncIeJQ
 <!--------------------------------------------------------------------------------- Road map -->
 <br><br>
 
-# Road map
+## Road map
 ```
 AI (Artificial Intelligence) 
 ML (Machine learning)
@@ -42,7 +42,7 @@ Transformer
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-# Structure
+## Structure
 ```
 Problem
 Problem Solving
@@ -51,7 +51,7 @@ Problem Solving
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
-# Problem
+## Problem
 ```
 Classification
 Regression / Prediction
@@ -85,7 +85,7 @@ Generative
 <!--------------------------------------------------------------------------------- Problem Solving -->
 <br><br>
 
-# Solving
+## Solving
 ```
 Machine Learning
 Deep Learning
@@ -109,7 +109,7 @@ Agent-based Methods
 <!--------------------------------------------------------------------------------- Learning -->
 <br><br>
 
-# Subject
+## Subject
 ```
 Generative AI
 MCP
@@ -136,7 +136,7 @@ Generative AI : Multimodals
 <!--------------------------------------------------------------------------------- Learning -->
 <br><br>
 
-# Learning
+## Learning
 
 Algorithm
 
