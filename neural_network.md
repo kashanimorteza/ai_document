@@ -113,13 +113,24 @@ Backpropagation
 <br><br>
 
 # Activation Functions
-<!-------------------------- Linear -->
-### Linear
+<!-------------------------- Structure -->
+### Structure
 ```
+Function
+Derivative
+Input
+Output
+Shape
+Advantages
+Disadvantages
+Where it’s used today
 ```
-<!-------------------------- Sigmoid -->
-### Sigmoid
+<!-------------------------- Type -->
+### Type
 ```
+Linear
+Sigmoid
+Tanh
 ```
 
 
