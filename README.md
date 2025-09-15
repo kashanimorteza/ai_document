@@ -138,10 +138,12 @@ Generative AI : Multimodals
 
 # Learning
 
-### Algorithm
+Algorithm
+
 [Neural network]
 
-### Architecture
+Architecture
+
 [Convolutional Neural Network (CNN)]
 
 ```
