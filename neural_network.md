@@ -1,11 +1,11 @@
 <!--------------------------------------------------------------------------------- Description -->
-# AI : Neural Network
+# Neural Network
     AI : Learning : Deep Learning : Algorithm : Neural Network
 
 <!--------------------------------------------------------------------------------- Resource -->
 <br><br>
 
-# Resource
+## Resource
 <!-------------------------- Book -->
 Book
 ```
@@ -24,7 +24,7 @@ Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEK
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
-# Structure
+## Structure
 ```
 Input
 Model
@@ -45,7 +45,7 @@ CNN (Convolutional Neural Network Layer)
 <!--------------------------------------------------------------------------------- Subject -->
 <br><br>
 
-# Subject
+## Subject
 ```
 Training
 Fine-tuning
@@ -54,7 +54,7 @@ Fine-tuning
 <!--------------------------------------------------------------------------------- Activation Functions -->
 <br><br>
 
-# Activation Functions
+## Activation Functions
 <!-------------------------- Structure -->
 Structure
 ```
@@ -69,7 +69,7 @@ Linear | Sigmoid | Tanh | ReLU | ELU | Leaky ReLU | Softmax
 <!--------------------------------------------------------------------------------- Loss Function -->
 <br><br>
 
-# Loss Function
+## Loss Function
 <!-------------------------- Structure -->
 Structure
 ```
@@ -84,7 +84,7 @@ Cross-Entropy
 <!--------------------------------------------------------------------------------- Optimizer -->
 <br><br>
 
-# Optimizer
+## Optimizer
 <!-------------------------- Structure -->
 Structure
 ```
@@ -99,7 +99,7 @@ Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | 
 <!--------------------------------------------------------------------------------- Training -->
 <br><br>
 
-# Training
+## Training
 <!-------------------------- Structure -->
 Structure
 ```
@@ -132,7 +132,7 @@ Learning rate
 <!--------------------------------------------------------------------------------- Input -->
 <br><br>
 
-# Input
+## Input
 ```
 Type
 Lable
@@ -145,7 +145,7 @@ Limitation
 <!--------------------------------------------------------------------------------- Output -->
 <br><br>
 
-# Output
+## Output
 ```
 Predict
 Nois
@@ -158,7 +158,7 @@ Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 <!--------------------------------------------------------------------------------- Tools -->
 <br><br>
 
-# Tools
+## Tools
 <!-------------------------- Python -->
 Python
 ```
@@ -171,7 +171,7 @@ jupyter
 <!--------------------------------------------------------------------------------- Note -->
 <br><br>
 
-# Note
+## Note
 ```
 Activation Functions Must be differentiable
 ```
@@ -179,7 +179,7 @@ Activation Functions Must be differentiable
 <!--------------------------------------------------------------------------------- Extra -->
 <br><br>
 
-# Extra
+## Extra
 ```
 seq2seq
 Transformer
