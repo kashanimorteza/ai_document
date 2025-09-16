@@ -155,19 +155,6 @@ Feedback & Iteration
 Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 ```
 
-<!--------------------------------------------------------------------------------- Tools -->
-<br><br>
-
-## Tools
-<!-------------------------- Python -->
-Python
-```
-cv2
-numpy
-matplotlib
-jupyter
-```
-
 <!--------------------------------------------------------------------------------- Note -->
 <br><br>
 
