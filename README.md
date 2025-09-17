@@ -45,6 +45,7 @@ Transformer
 
 ## Structure
 ```
+Definition
 Problem
 Resolve
 ```
