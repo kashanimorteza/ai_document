@@ -19,6 +19,9 @@ Google AI Studio  : https://aistudio.google.com/prompts/new_chat
 Google Colab      : https://colab.research.google.com/
 Teachable Machine : https://teachablemachine.withgoogle.com/
 https://datayad.com/
+https://cs.stanford.edu/people/karpathy/convnetjs/index.html
+https://playground.tensorflow.org/
+https://huggingface.co/papers/trending
 ```
 <!-------------------------- Video -->
 Video
@@ -187,14 +190,29 @@ Architecture
 [CNN : Convolutional Neural Network]
 
 ```
+Multi-Layer Perceptron (MLP)
 Feedforward Neural Network (FNN / Perceptron)
 Recurrent Neural Network (RNN)
 Long Short-Term Memory (LSTM)
 Gated Recurrent Unit (GRU)
 Transformers
 Autoencoders
-Generative Adversarial Networks (GANs)
-Graph Neural Networks (GNNs)
+Generative Adversarial Networks (GAN)
+Graph Neural Networks (GNN)
+Auto Encoder (AE)
+SVM
+LSTM
+```
+
+<!--------------------------------------------------------------------------------- Resolve : Learning -->
+<br><br>
+
+## Note
+```
+gartner hype cycle for emerging technologies 2025
+imageNet
+CIFAR-10
+MNIST
 ```
 
 <!--------------------------------------------------------------------------------- Links -->

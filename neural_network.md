@@ -6,19 +6,11 @@
 <br><br>
 
 ## Resource
-<!-------------------------- Book -->
-Book
-```
-```
-<!-------------------------- Website -->
-Website
-```
-https://www.tensorflow.org/
-```
 <!-------------------------- Video -->
 Video
 ```
 Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
+https://faradars.org/courses/basics-of-deep-learning-fvml9912
 ```
 
 <!--------------------------------------------------------------------------------- Structure -->
@@ -99,7 +91,7 @@ Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | 
 
 ## Training
 <!-------------------------- Structure -->
-Structure
+### Structure
 ```
 Feed forward
 Error : Loss function | Cost function
@@ -108,7 +100,7 @@ Epoch
 Batch
 ```
 <!-------------------------- Type -->
-Type
+### Type
 ```
 Supervised
 Unsupervised
@@ -121,7 +113,7 @@ Few-shot / Zero-shot
 Evolutionary methods
 ```
 <!-------------------------- Problem -->
-Problem
+### Problem
 ```
 Vanishing Gradient
 Learning rate
