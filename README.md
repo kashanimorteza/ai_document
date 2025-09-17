@@ -59,13 +59,13 @@ Resolve
 Input > Model > Output
 ```
 <!-------------------------- Resource -->
-#### Resource
+### Resource
 
 [aaa]
 
-Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
-
-
+```
+Video : Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
+```
 
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
@@ -203,5 +203,5 @@ Graph Neural Networks (GNNs)
 [MCP]: https://github.com/kashanimorteza/ai_document/tree/main/mcp.md
 [LLM]: https://github.com/kashanimorteza/ai_document/tree/main/llm.md
 
-[aaa]: https://github.com/kashanimorteza/ai_document/tree/main/book.md#Artificial Intelligence: A Modern Approach
+[aaa]: https://github.com/kashanimorteza/ai_document/tree/main/book.md#
 
