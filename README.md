@@ -10,36 +10,23 @@
 <!-------------------------- Book -->
 Book
 ```
+Artificial Intelligence: A Modern Approach
 AI Engineering: Building Applications with Foundation Models
 ```
 <!-------------------------- Website -->
 Website
 ```
+HuggingFace       : https://huggingface.co/papers/trending
 Google AI Studio  : https://aistudio.google.com/prompts/new_chat
-Google Colab      : https://colab.research.google.com/
 Teachable Machine : https://teachablemachine.withgoogle.com/
-https://datayad.com/
-https://cs.stanford.edu/people/karpathy/convnetjs/index.html
-https://playground.tensorflow.org/
-https://huggingface.co/papers/trending
 ```
 <!-------------------------- Video -->
 Video
 ```
-
-Youtube  : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
-Youtube  : @puryadianati  : https://www.youtube.com/watch?v=Fw9DuncIeJQ
-```
-
-<!--------------------------------------------------------------------------------- Road map -->
-<br><br>
-
-## Road map
-```
-AI (Artificial Intelligence) 
-ML (Machine learning)
-Neural Network
-Transformer
+Faradars : Mohammad sabri   : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
+Faradars : Saeed mohagheghi : https://faradars.org/courses/basics-of-deep-learning-fvml9912
+Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
+Faradars : Saeed mohagheghi : https://faradars.org/courses/deep-learning-programming-with-python-tensorflow-and-keras-fvdl104
 ```
 
 <!--------------------------------------------------------------------------------- Structure -->
@@ -50,24 +37,6 @@ Transformer
 Definition
 Problem
 Resolve
-```
-
-<!--------------------------------------------------------------------------------- Problem -->
-<br><br>
-
-## Definition
-<!-------------------------- Structure -->
-### Structure
-```
-Input > Model > Output
-```
-<!-------------------------- Resource -->
-### Resource
-
-Book : [Artificial Intelligence: A Modern Approach]
-
-```
-Video : Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
 ```
 
 <!--------------------------------------------------------------------------------- Problem -->

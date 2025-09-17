@@ -2,17 +2,6 @@
 # Neural Network
     AI : Learning : Deep Learning : Algorithm : Neural Network
 
-<!--------------------------------------------------------------------------------- Resource -->
-<br><br>
-
-## Resource
-<!-------------------------- Video -->
-Video
-```
-Youtube : @saberkolagar : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
-https://faradars.org/courses/basics-of-deep-learning-fvml9912
-```
-
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
