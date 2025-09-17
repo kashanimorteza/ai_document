@@ -61,7 +61,7 @@ Input > Model > Output
 <!-------------------------- Resource -->
 ### Resource
 
-[Artificial Intelligence: A Modern Approach]
+Book : [Artificial Intelligence: A Modern Approach]
 
 ```
 Video : Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
@@ -203,5 +203,5 @@ Graph Neural Networks (GNNs)
 [MCP]: https://github.com/kashanimorteza/ai_document/tree/main/mcp.md
 [LLM]: https://github.com/kashanimorteza/ai_document/tree/main/llm.md
 
-[Artificial Intelligence: A Modern Approach]: https://github.com/kashanimorteza/ai_document/tree/main/book.md#
+[Artificial Intelligence: A Modern Approach]: https://github.com/kashanimorteza/ai_document/tree/main/book.md#artificial-intelligence-a-modern-approach
 
