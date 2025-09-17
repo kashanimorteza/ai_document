@@ -19,6 +19,7 @@ Website
 Google AI Studio  : https://aistudio.google.com/prompts/new_chat
 Google Colab      : https://colab.research.google.com/
 Teachable Machine : https://teachablemachine.withgoogle.com/
+https://datayad.com/
 ```
 <!-------------------------- Video -->
 Video
@@ -48,14 +49,24 @@ Problem
 Resolve
 ```
 
+<!--------------------------------------------------------------------------------- History -->
+<br><br>
+
+## History
+```
+Expert system
+Machine Learning classic
+
+```
+
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
 ## Problem
 Core
 ```
-Classification
 Regression / Prediction
+Classification
 Clustering
 Dimensionality Reduction
 Anomaly Detection
@@ -122,16 +133,22 @@ Application
 ```
 Speech Recognizition
 ```
+Regression
+```
+Linear Regression
+Polynomial Regression
+Support Vector Regression (SVR)
+Neural Networks
+```
 
 <!--------------------------------------------------------------------------------- Subject -->
 <br><br>
 
 ## Subject
-```
 [MCP]
 [LLM]
 Agent
-```
+
 
 <!--------------------------------------------------------------------------------- Problem : Computer Vision -->
 <br><br>
