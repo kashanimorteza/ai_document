@@ -53,10 +53,18 @@ Resolve
 <br><br>
 
 ## Definition
+Structure
 ```
 Input > Model > Output
 ```
+Resource
 [Artificial Intelligence: A Modern Approach]
+
+    [Artificial Intelligence: A Modern Approach]
+
+```
+[Artificial Intelligence: A Modern Approach]
+```
 Faradars : Mohammad sabri : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
 
 
