@@ -6,8 +6,5 @@
 <br><br>
 
 ## Dataset
-```
-imageNet
-CIFAR-10
-MNIST
-```
+TensorFlow : https://www.tensorflow.org/datasets/catalog/overview 
+Keras      : https://keras.io/api/datasets/
