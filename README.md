@@ -23,10 +23,11 @@ Teachable Machine : https://teachablemachine.withgoogle.com/
 <!-------------------------- Video -->
 Video
 ```
+Faradars : Leyla rahmati    : https://faradars.org/videos/foundation-mathematics-for-artificial-intelligence-fvtgs3889
 Faradars : Mohammad sabri   : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
 Faradars : Saeed mohagheghi : https://faradars.org/courses/basics-of-deep-learning-fvml9912
-Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 Faradars : Saeed mohagheghi : https://faradars.org/courses/deep-learning-programming-with-python-tensorflow-and-keras-fvdl104
+Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 ```
 
 <!--------------------------------------------------------------------------------- Structure -->
