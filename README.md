@@ -180,9 +180,7 @@ LSTM
 ## Note
 ```
 gartner hype cycle for emerging technologies 2025
-imageNet
-CIFAR-10
-MNIST
+
 ```
 
 <!--------------------------------------------------------------------------------- Links -->
