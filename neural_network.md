@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------------- Description -->
 # Neural Network
-    AI : Learning : Deep Learning : Algorithm : Neural Network
+    AI : Learning : Algorithm
 
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
@@ -135,6 +135,28 @@ Feedback & Iteration
 Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
 ```
 
+<!--------------------------------------------------------------------------------- Architecture -->
+<br><br>
+
+## Architecture
+
+[CNN : Convolutional Neural Network]
+
+```
+Multi-Layer Perceptron (MLP)
+Feedforward Neural Network (FNN / Perceptron)
+Recurrent Neural Network (RNN)
+Long Short-Term Memory (LSTM)
+Gated Recurrent Unit (GRU)
+Transformers
+Autoencoders
+Generative Adversarial Networks (GAN)
+Graph Neural Networks (GNN)
+Auto Encoder (AE)
+SVM
+LSTM
+```
+
 <!--------------------------------------------------------------------------------- App -->
 <br><br>
 
@@ -168,3 +190,6 @@ Reward model
 Medium | Abstraction | Context | Statefulness
 Token
 ```
+
+<!--------------------------------------------------------------------------------- Links -->
+[CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
