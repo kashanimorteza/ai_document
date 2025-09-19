@@ -40,6 +40,7 @@ Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=P
 Definition
 Problem
 Resolve
+Field
 ```
 
 <!--------------------------------------------------------------------------------- Problem -->
@@ -58,7 +59,7 @@ Game Playing / Adversarial
 ```
 Specialized
 ```
-Computer Vision
+
 Natural Language Processing (NLP) / Speech Recognition
 Robotics
 Autonomous Vehicles
@@ -73,12 +74,9 @@ Transformers (as architecture powering many models)
 <br><br>
 
 ## Resolve
-Learning
-```
-Machine Learning
-Deep Learning
-Reinforcement Learning
-```
+
+[Learning]
+
 Search
 ```
 BFS
@@ -124,57 +122,18 @@ Support Vector Regression (SVR)
 Neural Networks
 ```
 
-<!--------------------------------------------------------------------------------- Subject -->
+<!--------------------------------------------------------------------------------- Field -->
 <br><br>
 
-## Subject
+## Field
+
+[Computer Vision]
+
 [MCP]
 
 [LLM]
 
 Agent
-
-
-<!--------------------------------------------------------------------------------- Problem : Computer Vision -->
-<br><br>
-
-## Problem : Computer Vision
-```
-Image Classification
-Object Detection
-Image Segmentation
-Image Processing
-Face Recognition
-Optical Character Recognition (OCR)
-```
-
-<!--------------------------------------------------------------------------------- Resolve : Learning -->
-<br><br>
-
-## Resolve : Learning
-
-Algorithm
-
-[Neural network]
-
-Architecture
-
-[CNN : Convolutional Neural Network]
-
-```
-Multi-Layer Perceptron (MLP)
-Feedforward Neural Network (FNN / Perceptron)
-Recurrent Neural Network (RNN)
-Long Short-Term Memory (LSTM)
-Gated Recurrent Unit (GRU)
-Transformers
-Autoencoders
-Generative Adversarial Networks (GAN)
-Graph Neural Networks (GNN)
-Auto Encoder (AE)
-SVM
-LSTM
-```
 
 <!--------------------------------------------------------------------------------- Resolve : Learning -->
 <br><br>
@@ -182,11 +141,12 @@ LSTM
 ## Note
 ```
 gartner hype cycle for emerging technologies 2025
-
 ```
 
 <!--------------------------------------------------------------------------------- Links -->
-[Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
+[Computer Vision]: https://github.com/kashanimorteza/ai_document/tree/main/computer_vision.md
+[Learning]: https://github.com/kashanimorteza/ai_document/tree/main/learning.md
+
 [CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
 [MCP]: https://github.com/kashanimorteza/ai_document/tree/main/mcp.md
 [LLM]: https://github.com/kashanimorteza/ai_document/tree/main/llm.md
