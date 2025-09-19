@@ -9,10 +9,9 @@
 ## Resource  
 <!-------------------------- Book -->
 Book
-
-[Artificial Intelligence: A Modern Approach]
 ```
 Dive into Deep Learning
+Artificial Intelligence: A Modern Approach
 Deep Learning with Python - François Chollet 
 AI and Machine Learning for Coders - Laurence Moroney 
 AI Engineering: Building Applications with Foundation Models
@@ -49,21 +48,22 @@ Youtube  : Article : @TheAIEpiphany : https://www.youtube.com/@TheAIEpiphany
 
 ## Roadmap
 <!-------------------------- Math -->
-### Math
-Linear algebra 
-```
-Vectors and linear combination
-Matrices with a geometric understanding
-Determinant and color
-Internal and external multiplication
-```
-Statistics and probability
-```
-Geometric distributions
-Mean and variance
-Hypothesis tests
-Central Limit Theorem and the Law of Large Numbers
-```
+Math
+
+    Linear algebra 
+    ```
+    Vectors and linear combination
+    Matrices with a geometric understanding
+    Determinant and color
+    Internal and external multiplication
+    ```
+    Statistics and probability
+    ```
+    Geometric distributions
+    Mean and variance
+    Hypothesis tests
+    Central Limit Theorem and the Law of Large Numbers
+    ```
 <!-------------------------- Python -->
 ### Python
 ```
