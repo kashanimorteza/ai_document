@@ -32,17 +32,6 @@ Faradars : Saeed mohagheghi : https://faradars.org/courses/deep-learning-program
 Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 ```
 
-<!--------------------------------------------------------------------------------- Structure -->
-<br><br>
-
-## Structure
-```
-Definition
-Problem
-Resolve
-Field
-```
-
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
 
@@ -59,7 +48,6 @@ Game Playing / Adversarial
 ```
 Specialized
 ```
-
 Natural Language Processing (NLP) / Speech Recognition
 Robotics
 Autonomous Vehicles
