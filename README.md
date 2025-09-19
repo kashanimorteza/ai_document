@@ -36,27 +36,19 @@ Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=P
 <br><br>
 
 ## Problem
-Core
-```
 Regression / Prediction
+
 Classification
+
 Clustering
+
 Dimensionality Reduction
+
 Anomaly Detection
+
 Recommendation (Recommender Systems)
+
 Game Playing / Adversarial
-```
-Specialized
-```
-Natural Language Processing (NLP) / Speech Recognition
-Robotics
-Autonomous Vehicles
-```
-Generative
-```
-Generative (text, images, audio, video)
-Transformers (as architecture powering many models)
-```
 
 <!--------------------------------------------------------------------------------- Resolve -->
 <br><br>
@@ -93,6 +85,18 @@ Regression : Linear Regression | Polynomial Regression | Support Vector Regressi
 [LLM]
 
 Agent
+
+Specialized
+```
+Natural Language Processing (NLP) / Speech Recognition
+Robotics
+Autonomous Vehicles
+```
+Generative
+```
+Generative (text, images, audio, video)
+Transformers (as architecture powering many models)
+```
 
 <!--------------------------------------------------------------------------------- Resolve : Learning -->
 <br><br>
