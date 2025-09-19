@@ -40,7 +40,7 @@ Conv  : Convolutional Neural Network Layer
 ```
 Layer     : Input Layers | Hidden Layers | Output Layers
 Parameter : Input | Weight | Bias
-Function  : Affine Transformation | Sum function | Activation Functions | Loss Functions
+Function  : Affine Transformation | Weightes Sum | Activation Functions | Loss Functions
 ```
 
 <!--------------------------------------------------------------------------------- Activation Functions -->

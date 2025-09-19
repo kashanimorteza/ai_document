@@ -22,16 +22,64 @@ Website
 HuggingFace       : https://huggingface.co/papers/trending
 Google AI Studio  : https://aistudio.google.com/prompts/new_chat
 Teachable Machine : https://teachablemachine.withgoogle.com/
+3blue1brown       : https://www.3blue1brown.com/
 ```
 <!-------------------------- Video -->
 Video
 ```
-Faradars : Leyla rahmati    : https://faradars.org/videos/foundation-mathematics-for-artificial-intelligence-fvtgs3889
-Faradars : Mohammad sabri   : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
-Faradars : Saeed mohagheghi : https://faradars.org/courses/basics-of-deep-learning-fvml9912
-Faradars : Saeed mohagheghi : https://faradars.org/courses/deep-learning-programming-with-python-tensorflow-and-keras-fvdl104
-Youtube  : @saberkolagar    : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
+Faradars : Leyla rahmati     : https://faradars.org/videos/foundation-mathematics-for-artificial-intelligence-fvtgs3889
+Faradars : Mohammad sabri    : https://faradars.org/courses/fvsft102-bssic-of-artificial-intelligence
+Faradars : Saeed mohagheghi  : https://faradars.org/courses/basics-of-deep-learning-fvml9912
+Faradars : Saeed mohagheghi  : https://faradars.org/courses/deep-learning-programming-with-python-tensorflow-and-keras-fvdl104
+Youtube  : @saberkolagar     : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
+Youtube  : @robotech_academy : https://www.youtube.com/@robotech_academy
+Youtube  : @3blue1brown     : https://www.youtube.com/@3blue1brown/featured
 ```
+
+<!--------------------------------------------------------------------------------- Roadmap -->
+<br><br>
+
+## Roadmap
+<!-------------------------- Math -->
+### Math
+Linear algebra 
+```
+Vectors and linear combination
+Matrices with a geometric understanding
+Determinant and color
+Internal and external multiplication
+```
+Statistics and probability
+```
+Geometric distributions
+Mean and variance
+Hypothesis tests
+Central Limit Theorem and the Law of Large Numbers
+```
+<!-------------------------- Python -->
+### Python
+```
+Basic
+Numpy
+Matplotlib
+Pandas
+```
+<!-------------------------- Classic machine learning -->
+### Classic machine learning
+```
+Basic concepts of machine learning
+Working with text and image datasets
+Some basic classification and regression algorithms
+Important algorithm of Gradient Descent
+```
+<!-------------------------- Deep learning -->
+### Deep learning
+```
+Understanding CNNs and updating weights
+Complete solution of a classification example with CNN
+Transfer learning and how to use it
+```
+
 
 <!--------------------------------------------------------------------------------- Problem -->
 <br><br>
