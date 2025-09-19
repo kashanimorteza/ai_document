@@ -10,24 +10,13 @@
 Input > Model > Output
 ```
 ```
+Dense : Fully Connected Layer
+Conv  : Convolutional Neural Network Layer
+```
+```
 Layer     : Input Layers | Hidden Layers | Output Layers
 Parameter : Input | Weight | Bias
-Function  : Affine Transformation | Activation Functions
-Gradient Descent
-Gradient
-```
-```
-Dense Layer (Fully Connected Layer)
-CNN (Convolutional Neural Network Layer)
-```
-
-<!--------------------------------------------------------------------------------- Subject -->
-<br><br>
-
-## Subject
-```
-Training
-Fine-tuning
+Function  : Affine Transformation | Sum function | Activation Functions | Loss Functions
 ```
 
 <!--------------------------------------------------------------------------------- Activation Functions -->
@@ -157,6 +146,14 @@ SVM
 LSTM
 ```
 
+<!--------------------------------------------------------------------------------- Subject -->
+<br><br>
+
+## Subject
+```
+Fine-tuning
+```
+
 <!--------------------------------------------------------------------------------- App -->
 <br><br>
 
@@ -189,7 +186,12 @@ RLHF
 Reward model
 Medium | Abstraction | Context | Statefulness
 Token
+Gradient Descent
+Gradient
 ```
 
 <!--------------------------------------------------------------------------------- Links -->
 [CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
+
+
+
