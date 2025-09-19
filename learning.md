@@ -43,4 +43,4 @@ LSTM
 
 <!--------------------------------------------------------------------------------- Links -->
 [Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
-
+[CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md

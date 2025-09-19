@@ -109,10 +109,7 @@ gartner hype cycle for emerging technologies 2025
 <!--------------------------------------------------------------------------------- Links -->
 [Computer Vision]: https://github.com/kashanimorteza/ai_document/tree/main/computer_vision.md
 [Learning]: https://github.com/kashanimorteza/ai_document/tree/main/learning.md
-
-[CNN : Convolutional Neural Network]: https://github.com/kashanimorteza/ai_document/tree/main/cnn.md
 [MCP]: https://github.com/kashanimorteza/ai_document/tree/main/mcp.md
 [LLM]: https://github.com/kashanimorteza/ai_document/tree/main/llm.md
-
 [Artificial Intelligence: A Modern Approach]: https://github.com/kashanimorteza/ai_document/tree/main/book.md#artificial-intelligence-a-modern-approach
 
