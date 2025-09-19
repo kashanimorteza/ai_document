@@ -19,7 +19,5 @@ Reinforcement Learning
 
 [Neural network]
 
-
-
 <!--------------------------------------------------------------------------------- Links -->
 [Neural network]: https://github.com/kashanimorteza/ai_document/tree/main/neural_network.md
