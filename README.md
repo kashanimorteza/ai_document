@@ -51,19 +51,19 @@ Youtube  : Article : @TheAIEpiphany : https://www.youtube.com/@TheAIEpiphany
 Math
 
     Linear algebra 
-    ```
+    ---------------------
     Vectors and linear combination
     Matrices with a geometric understanding
     Determinant and color
     Internal and external multiplication
-    ```
+
     Statistics and probability
-    ```
+    --------------------------
     Geometric distributions
     Mean and variance
     Hypothesis tests
     Central Limit Theorem and the Law of Large Numbers
-    ```
+
 <!-------------------------- Python -->
 ### Python
 ```
