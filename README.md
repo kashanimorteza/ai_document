@@ -9,6 +9,7 @@
 ## Resource  
 <!-------------------------- Book -->
 Book
+
 [Artificial Intelligence: A Modern Approach]
 ```
 Deep Learning with Python - François Chollet 
