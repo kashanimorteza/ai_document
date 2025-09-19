@@ -92,6 +92,13 @@ Gradient Descent | Stochastic Gradient Descent | Momentum | AdaGrad | RMSProp | 
 <br><br>
 
 ## Training
+<!-------------------------- Dataset -->
+### Dataset
+```
+Tarin
+Validation
+Test
+```
 <!-------------------------- Structure -->
 ### Structure
 ```

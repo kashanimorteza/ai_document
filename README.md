@@ -12,6 +12,7 @@ Book
 
 [Artificial Intelligence: A Modern Approach]
 ```
+Dive into Deep Learning
 Deep Learning with Python - François Chollet 
 AI and Machine Learning for Coders - Laurence Moroney 
 AI Engineering: Building Applications with Foundation Models
@@ -23,6 +24,10 @@ HuggingFace       : https://huggingface.co/papers/trending
 Google AI Studio  : https://aistudio.google.com/prompts/new_chat
 Teachable Machine : https://teachablemachine.withgoogle.com/
 3blue1brown       : https://www.3blue1brown.com/
+Tutorial          : https://machinelearningmastery.com/
+Tutorial          : https://blog.paperspace.com/
+Tutorial          : https://deep-learning-drizzle.github.io/
+Book              : https://d2l.ai/
 ```
 <!-------------------------- Video -->
 Video
@@ -33,7 +38,10 @@ Faradars : Saeed mohagheghi  : https://faradars.org/courses/basics-of-deep-learn
 Faradars : Saeed mohagheghi  : https://faradars.org/courses/deep-learning-programming-with-python-tensorflow-and-keras-fvdl104
 Youtube  : @saberkolagar     : https://www.youtube.com/watch?v=5Y3j3K_KKN4&list=PLbEKSgSYxE7s-aQ8ZpfH8WYEnz4ZKkICO
 Youtube  : @robotech_academy : https://www.youtube.com/@robotech_academy
-Youtube  : @3blue1brown     : https://www.youtube.com/@3blue1brown/featured
+Youtube  : @3blue1brown      : https://www.youtube.com/@3blue1brown/featured
+Youtube  : Article : @WeightsBiases : https://www.youtube.com/@WeightsBiases
+Youtube  : Article : @TheAIEpiphany : https://www.youtube.com/@TheAIEpiphany
+
 ```
 
 <!--------------------------------------------------------------------------------- Roadmap -->
@@ -78,6 +86,10 @@ Important algorithm of Gradient Descent
 Understanding CNNs and updating weights
 Complete solution of a classification example with CNN
 Transfer learning and how to use it
+```
+<!-------------------------- Advanced topics -->
+### Advanced topics
+```
 ```
 
 
