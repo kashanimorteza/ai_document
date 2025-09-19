@@ -77,50 +77,14 @@ Transformers (as architecture powering many models)
 
 [Learning]
 
-Search
-```
-BFS
-DFS
-A*
-Minimax
-```
-Rule/Logic
-```
-Rule-based
-Logic-based
-Expert Systems
-```
-Probabilistic
-```
-Bayesian Networks
-Probabilistic Reasoning
-```
-Evolutionary & Nature-inspired
-```
-GA
-Swarm Intelligence
-Genetic Algorithms
-```
-Hybrid & Agent
-```
-Hybrid AI
-Multi-agent systems
-```
-Reasoning
-```
-Fuzzy Logic
-```
-Application
-```
-Speech Recognizition
-```
-Regression
-```
-Linear Regression
-Polynomial Regression
-Support Vector Regression (SVR)
-Neural Networks
-```
+Search : BFS | DFS | A* | Minimax
+Rule/Logic ; Rule-based | Logic-based | Expert Systems
+Probabilistic : Bayesian Networks | Probabilistic Reasoning
+Evolutionary & Nature-inspired : GA | Swarm Intelligence | Genetic Algorithms
+Hybrid & Agent : Hybrid AI | Multi-agent systems
+Reasoning : Fuzzy Logic
+Application : Speech Recognizition
+Regression : Linear Regression | Polynomial Regression | Support Vector Regression (SVR) | Neural Networks
 
 <!--------------------------------------------------------------------------------- Field -->
 <br><br>
