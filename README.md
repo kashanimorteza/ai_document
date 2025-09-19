@@ -9,8 +9,8 @@
 ## Resource  
 <!-------------------------- Book -->
 Book
+[Artificial Intelligence: A Modern Approach]
 ```
-Artificial Intelligence: A Modern Approach
 Deep Learning with Python - François Chollet 
 AI and Machine Learning for Coders - Laurence Moroney 
 AI Engineering: Building Applications with Foundation Models
