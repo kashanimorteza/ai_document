@@ -2,6 +2,28 @@
 # Neural Network
     AI : Learning : Algorithm
 
+<!--------------------------------------------------------------------------------- Architecture -->
+<br><br>
+
+## Architecture
+
+[CNN : Convolutional Neural Network]
+
+```
+Multi-Layer Perceptron (MLP)
+Feedforward Neural Network (FNN / Perceptron)
+Recurrent Neural Network (RNN)
+Long Short-Term Memory (LSTM)
+Gated Recurrent Unit (GRU)
+Transformers
+Autoencoders
+Generative Adversarial Networks (GAN)
+Graph Neural Networks (GNN)
+Auto Encoder (AE)
+SVM
+LSTM
+```
+
 <!--------------------------------------------------------------------------------- Structure -->
 <br><br>
 
@@ -122,28 +144,6 @@ Output
 Evaluation criteria : Accuracy, Precision, Recall, F1
 Feedback & Iteration
 Format : Probabilities, Text, Labels, h5, pt, onnx, joblib
-```
-
-<!--------------------------------------------------------------------------------- Architecture -->
-<br><br>
-
-## Architecture
-
-[CNN : Convolutional Neural Network]
-
-```
-Multi-Layer Perceptron (MLP)
-Feedforward Neural Network (FNN / Perceptron)
-Recurrent Neural Network (RNN)
-Long Short-Term Memory (LSTM)
-Gated Recurrent Unit (GRU)
-Transformers
-Autoencoders
-Generative Adversarial Networks (GAN)
-Graph Neural Networks (GNN)
-Auto Encoder (AE)
-SVM
-LSTM
 ```
 
 <!--------------------------------------------------------------------------------- Subject -->
