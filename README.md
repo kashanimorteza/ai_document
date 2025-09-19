@@ -49,23 +49,24 @@ Youtube  : Article : @TheAIEpiphany : https://www.youtube.com/@TheAIEpiphany
 ## Roadmap
 <!-------------------------- Math -->
 Math
+```
+Linear algebra 
+---------------------
+Vectors and linear combination
+Matrices with a geometric understanding
+Determinant and color
+Internal and external multiplication
 
-    Linear algebra 
-    ---------------------
-    Vectors and linear combination
-    Matrices with a geometric understanding
-    Determinant and color
-    Internal and external multiplication
-
-    Statistics and probability
-    --------------------------
-    Geometric distributions
-    Mean and variance
-    Hypothesis tests
-    Central Limit Theorem and the Law of Large Numbers
+Statistics and probability
+--------------------------
+Geometric distributions
+Mean and variance
+Hypothesis tests
+Central Limit Theorem and the Law of Large Numbers
+```
 
 <!-------------------------- Python -->
-### Python
+Python
 ```
 Basic
 Numpy
@@ -73,7 +74,7 @@ Matplotlib
 Pandas
 ```
 <!-------------------------- Classic machine learning -->
-### Classic machine learning
+Classic machine learning
 ```
 Basic concepts of machine learning
 Working with text and image datasets
@@ -81,14 +82,14 @@ Some basic classification and regression algorithms
 Important algorithm of Gradient Descent
 ```
 <!-------------------------- Deep learning -->
-### Deep learning
+Deep learning
 ```
 Understanding CNNs and updating weights
 Complete solution of a classification example with CNN
 Transfer learning and how to use it
 ```
 <!-------------------------- Advanced topics -->
-### Advanced topics
+Advanced topics
 ```
 ```
 
