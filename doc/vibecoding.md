@@ -49,33 +49,63 @@ claude --name "Mk-Linux-AgentInterface-Code"
 
 [anthropics](https://github.com/anthropics/claude-plugins-official?utm_source=chatgpt.com)  
 [fcakyon](https://github.com/fcakyon/claude-codex-settings?utm_source=chatgpt.com)
+[pydantic](github.com/pydantic/skills)
 
-### Command
 
-#### Claude
+### Claude
 
 ```bash
 /plugin
 ```
 
-#### Bash
-Marketplace list
+### Marketplace list
+
 ```bash
 claude plugin marketplace list
 ```
-Marketplace add
+
+### Marketplace add
+
 ```bash
 claude plugin marketplace add anthropics/claude-plugins-official --scope project
 claude plugin marketplace add fcakyon/claude-codex-settings --scope project
 ```
 
 ### Plugin Installed
+
 ```bash
 claude plugin list
 ```
 
-### Find
+### Anthropic Plugin
+
+```bash
+claude plugin marketplace add anthropics/claude-plugins-official --scope project
+claude plugin marketplace add anthropics/skills --scope project
+claude plugin install claude-code-setup@claude-plugins-official --scope project
+claude plugin install feature-dev@claude-plugins-official --scope project
+claude plugin install commit-commands@claude-plugins-official --scope project
+claude plugin install plugin-dev@claude-plugins-official --scope project
+claude plugin install frontend-design@claude-plugins-official --scope project
+claude plugin install example-skills@anthropic-agent-skills --scope project
 ```
+
+### pydantic
+
+```bash
+claude plugin install pydantic-ai@claude-plugins-official --scope project
+```
+
+### Uv
+
+```bash
+uvx library-skills
+uv add "fastapi[standard]"
+```
+
+### Find
+
+```bash
 find ~/.claude/skills -name SKILL.md -print 2>/dev/null
 find .claude/skills -name SKILL.md -print 2>/dev/null
 ```
