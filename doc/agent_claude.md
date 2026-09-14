@@ -23,74 +23,63 @@ claude --version
 ## Start
 
 ```bash
-claude --name "Mk-Linux-AgentInterface-Code"
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Mac-Gui-AgentInterface"
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Mac-Cli-AgentInterface"
+
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Linux-Cli-AgentInterface"
 ```
 
 <!--------------------------------------------------------------------------------- Plugin -->
 ## Plugin
 
-<!-------------------------- Market place -->
-### Market place
-
-[anthropics](https://github.com/anthropics/claude-plugins-official?utm_source=chatgpt.com)  
-[fcakyon](https://github.com/fcakyon/claude-codex-settings?utm_source=chatgpt.com)
-[pydantic](github.com/pydantic/skills)
+<!-------------------------- Command -->
+### Command
 
 ```bash
 /plugin
 ```
 
-```bash
-claude plugin marketplace list
-```
+### Anthropic
+
+[anthropics](https://github.com/anthropics/claude-plugins-official?utm_source=chatgpt.com)  
 
 ```bash
 claude plugin marketplace add anthropics/claude-plugins-official --scope project
 claude plugin marketplace add anthropics/skills --scope project
-claude plugin marketplace add fcakyon/claude-codex-settings --scope project
-```
 
-```bash
-claude plugin list
-```
-
-```bash
-find ~/.claude/skills -name SKILL.md -print 2>/dev/null
-find .claude/skills -name SKILL.md -print 2>/dev/null
-```
-
-<!-------------------------- Package -->
-### Package
-
-#### Anthropic
-
-```bash
 claude plugin install claude-code-setup@claude-plugins-official --scope project
 claude plugin install feature-dev@claude-plugins-official --scope project
 claude plugin install commit-commands@claude-plugins-official --scope project
 claude plugin install plugin-dev@claude-plugins-official --scope project
 claude plugin install frontend-design@claude-plugins-official --scope project
 claude plugin install example-skills@anthropic-agent-skills --scope project
-
-claude plugin marketplace add anthropics/skills --scope project
 claude plugin install document-skills@anthropic-agent-skills --scope project
-
 claude plugin install claude-md-management@claude-plugins-official --scope project
 ```
 
-#### fcakyon
+### fcakyon
+
+[fcakyon](https://github.com/fcakyon/claude-codex-settings?utm_source=chatgpt.com)
 
 ```bash
+claude plugin marketplace add fcakyon/claude-codex-settings --scope project
 claude plugin install adhd-output-style@claude-settings --scope project
 ```
 
-#### pydantic
+### pydantic
+
+[pydantic](github.com/pydantic/skills)
 
 ```bash
+claude plugin marketplace add pydantic/skills --scope project
+claude plugin install logfire@pydantic-skills --scope project
+claude plugin install ai@pydantic-skills --scope project
+claude plugin install pydantic-ai-harness@pydantic-skills --scope project
+claude plugin install pydantic@pydantic-skills --scope project
 claude plugin install pydantic-ai@claude-plugins-official --scope project
 ```
 
-#### Uv
+### Uv
 
 ```bash
 uvx library-skills
@@ -103,8 +92,25 @@ source .venv/bin/activate
 uv pip install "fastapi[standard]"
 ```
 
+<!-------------------------- multica-ai -->
+### andrej-karpathy-skills
+
+https://github.com/multica-ai/andrej-karpathy-skills
+
+```bash
+claude plugin marketplace add forrestchang/andrej-karpathy-skills --scope project
+claude plugin install andrej-karpathy-skills@karpathy-skills --scope project
+```
+
+
+
 <!--------------------------------------------------------------------------------- Tools -->
 ## Tools
+
+<!-------------------------- FastApi -->
+### FastApi
+
+[zhanymkanov](https://github.com/zhanymkanov/fastapi-best-practices)  
 
 <!-------------------------- Obsidian -->
 ### Obsidian

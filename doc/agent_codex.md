@@ -15,7 +15,9 @@ codex --version
 ## Start
 
 ```bash
+codex remote-control
 codex
-/rename Mk-Linux-AgentInterface-Code
-codex resume Mk-Linux-AgentInterface-Code
+remote
+/rename Mk-Linux-Cli-AgentInterface
+codex resume Mk-Linux-Cli-AgentInterface
 ```
