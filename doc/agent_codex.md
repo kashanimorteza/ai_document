@@ -18,6 +18,6 @@ codex --version
 codex remote-control
 codex
 remote
-/rename Mk-Linux-Cli-AgentInterface
+/rename Mk-Linux-Code-AgentInterface
 codex resume Mk-Linux-Cli-AgentInterface
 ```

@@ -1,5 +1,7 @@
 # Claude
 
+<br><br>
+
 <!--------------------------------------------------------------------------------- Claude -->
 ## Install
 
@@ -12,6 +14,8 @@ source ~/.bashrc
 claude --version
 ```
 
+<br><br>
+
 <!--------------------------------------------------------------------------------- Remote -->
 ## Remote
 
@@ -19,15 +23,17 @@ claude --version
 /remote-control
 ```
 
+<br><br>
+
 <!--------------------------------------------------------------------------------- Start -->
 ## Start
 
 ```bash
-CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Mac-Gui-AgentInterface"
-CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Mac-Cli-AgentInterface"
-
-CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Linux-Cli-AgentInterface"
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Mac-Code-AgentInterface" --remote-control --model sonnet --effort high
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Linux-Code-AgentInterface" --remote-control --model sonnet --effort high
 ```
+
+<br><br>
 
 <!--------------------------------------------------------------------------------- Plugin -->
 ## Plugin
@@ -39,21 +45,35 @@ CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Linux-Cli-AgentInterfac
 /plugin
 ```
 
+```bash
+claude plugin list
+```
+
+```bash
+claude plugin list --json
+```
+
+
+
 ### Anthropic
 
-[anthropics](https://github.com/anthropics/claude-plugins-official?utm_source=chatgpt.com)  
+[skills](https://github.com/anthropics/skills)  
+
+```bash
+claude plugin marketplace add anthropics/skills --scope project
+claude plugin install example-skills@anthropic-agent-skills --scope project
+claude plugin install document-skills@anthropic-agent-skills --scope project
+```
+
+[claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 ```bash
 claude plugin marketplace add anthropics/claude-plugins-official --scope project
-claude plugin marketplace add anthropics/skills --scope project
-
 claude plugin install claude-code-setup@claude-plugins-official --scope project
 claude plugin install feature-dev@claude-plugins-official --scope project
 claude plugin install commit-commands@claude-plugins-official --scope project
 claude plugin install plugin-dev@claude-plugins-official --scope project
 claude plugin install frontend-design@claude-plugins-official --scope project
-claude plugin install example-skills@anthropic-agent-skills --scope project
-claude plugin install document-skills@anthropic-agent-skills --scope project
 claude plugin install claude-md-management@claude-plugins-official --scope project
 ```
 
@@ -68,16 +88,23 @@ claude plugin install adhd-output-style@claude-settings --scope project
 
 ### pydantic
 
-[pydantic](github.com/pydantic/skills)
+[Source](https://github.com/pydantic/skills)
 
 ```bash
 claude plugin marketplace add pydantic/skills --scope project
-claude plugin install logfire@pydantic-skills --scope project
+claude plugin install pydantic@pydantic-skills --scope project
+claude plugin install logfire@pydantic-skills --scope project 
 claude plugin install ai@pydantic-skills --scope project
 claude plugin install pydantic-ai-harness@pydantic-skills --scope project
-claude plugin install pydantic@pydantic-skills --scope project
-claude plugin install pydantic-ai@claude-plugins-official --scope project
+
 ```
+
+claude plugin uninstall ai@pydantic-skills
+
+
+
+
+
 
 ### Uv
 
@@ -102,7 +129,7 @@ claude plugin marketplace add forrestchang/andrej-karpathy-skills --scope projec
 claude plugin install andrej-karpathy-skills@karpathy-skills --scope project
 ```
 
-
+<br><br>
 
 <!--------------------------------------------------------------------------------- Tools -->
 ## Tools
