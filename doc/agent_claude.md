@@ -29,8 +29,9 @@ claude --version
 ## Start
 
 ```bash
-CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Mac-Code-AgentInterface" --remote-control --model sonnet --effort high
-CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "Mk-Linux-Code-AgentInterface" --remote-control --model sonnet --effort high
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "MK-Mac-Code-MT5" --remote-control --model opus --effort high
+CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN=1 claude --name "MK-Linux-Code-MT5" --remote-control --model opus --effort high
+$env:CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN="1"; claude --name "MK-Windows-Code-MT5" --remote-control --model opus --effort high
 ```
 
 <br><br>
@@ -114,6 +115,9 @@ uv cache clean library-skills
 uvx library-skills list --installed
 uvx library-skills remove fastapi -y
 
+uvx library-skills install --claude --skill sqlmodel --copy -y
+uvx library-skills install --claude --skill fastapi --copy -y
+
 uv venv
 source .venv/bin/activate
 uv pip install "fastapi[standard]"
@@ -133,6 +137,32 @@ claude plugin install andrej-karpathy-skills@karpathy-skills --scope project
 
 <!--------------------------------------------------------------------------------- Tools -->
 ## Tools
+
+<!-------------------------- Graphifyy -->
+### Graphifyy
+
+Install
+```bash
+uv tool install graphifyy
+```
+
+Inside project
+```bash
+graphify install --project
+```
+
+Graph
+```bash
+graphify .
+```
+
+Integration
+```
+graphify claude install
+```
+
+
+
 
 <!-------------------------- FastApi -->
 ### FastApi
